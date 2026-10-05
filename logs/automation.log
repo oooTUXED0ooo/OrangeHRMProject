@@ -1,0 +1,568 @@
+2026-10-05 20:08:05 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-10-05 20:08:05 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2026-10-05 20:08:05 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:08:05 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:08:05 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:08:05 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:08:05 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:08:05 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:08:05 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:08:05 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:08:05 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:08:05 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:08:05 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:08:05 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:08:05 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:08:05 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:08:05 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 15 ms.
+2026-10-05 20:08:05 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 34 ms.
+2026-10-05 20:08:05 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:08:05 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-10-05 20:08:05 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:08:05 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:08:05 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:08:05 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:08:05 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:08:05 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 26 ms.
+2026-10-05 20:08:05 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:08:05 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:08:05 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:08:05 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:08:05 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Rahul Kumar\AppData\Local\Temp\testng-eclipse-86598066\testng-customsuite.xml
+
+2026-10-05 20:08:05 INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 22 ms.
+2026-10-05 20:08:05 INFO  tests.LoginTest - ***********Initializing Driver***********
+2026-10-05 20:08:05 INFO  library.Base - ***********LAUNCHING EDGE BROWSER***********
+2026-10-05 20:08:15 INFO  tests.LoginTest - ***********Initiating LoginPage***********
+2026-10-05 20:08:15 INFO  pages.LoginPage - ****Initiating LoginPage********
+2026-10-05 20:08:15 INFO  tests.LoginTest - **********Sending Username-Password to LoginPage*************
+2026-10-05 20:08:15 INFO  pages.LoginPage - ******Logging into app****
+2026-10-05 20:08:15 INFO  pages.LoginPage - ****Entering Username********
+2026-10-05 20:08:15 INFO  pages.LoginPage - ******Checking Presence of Username Field******
+2026-10-05 20:08:16 INFO  pages.LoginPage - ******Sending Username******
+2026-10-05 20:08:16 INFO  pages.LoginPage - ****Entering Password********
+2026-10-05 20:08:16 INFO  pages.LoginPage - ******Checking Visibility of Password Field******
+2026-10-05 20:08:16 INFO  pages.LoginPage - ******Sending Password******
+2026-10-05 20:08:16 INFO  pages.LoginPage - ****Clicking on Login Button********
+2026-10-05 20:08:16 INFO  pages.LoginPage - ******Checking Clickability of Login Button******
+2026-10-05 20:08:16 INFO  pages.LoginPage - ******Clicking on Login Button******
+2026-10-05 20:08:18 INFO  tests.LoginTest - **********Loading HomePage*************
+2026-10-05 20:08:18 INFO  pages.HomePage - ****Initiating HomePage********
+2026-10-05 20:08:18 INFO  tests.LoginTest - **********Clicking on Logged in User*************
+2026-10-05 20:08:18 INFO  pages.HomePage - ********Checking Clickability of LoggedInUser********
+2026-10-05 20:08:18 INFO  pages.HomePage - ********Clicking on LoggedInUser Button********
+2026-10-05 20:08:19 INFO  pages.HomePage - ********Checking Visibility of Logout Button********
+2026-10-05 20:08:19 INFO  tests.LoginTest - **********Clicking on Logout Button*************
+2026-10-05 20:08:19 INFO  pages.HomePage - ********Checking Clickability of Logout Button********
+2026-10-05 20:08:20 INFO  tests.LoginTest - ***********Verifying Login Page is Displayed after logout********
+2026-10-05 20:08:20 INFO  tests.LoginTest - *****Verifying Logout********
+2026-10-05 20:08:22 INFO  tests.LoginTest - ***********Initializing Driver***********
+2026-10-05 20:08:22 INFO  library.Base - ***********LAUNCHING EDGE BROWSER***********
+2026-10-05 20:08:29 INFO  tests.LoginTest - ***********Initiating LoginPage***********
+2026-10-05 20:08:29 INFO  pages.LoginPage - ****Initiating LoginPage********
+2026-10-05 20:08:29 INFO  tests.LoginTest - *******Initiating loginFailedTest********
+2026-10-05 20:08:29 INFO  tests.LoginTest - **********Sending Invalid Username-Password to LoginPage*************
+2026-10-05 20:08:29 INFO  pages.LoginPage - ******Logging into app****
+2026-10-05 20:08:29 INFO  pages.LoginPage - ****Entering Username********
+2026-10-05 20:08:29 INFO  pages.LoginPage - ******Checking Presence of Username Field******
+2026-10-05 20:08:30 INFO  pages.LoginPage - ******Sending Username******
+2026-10-05 20:08:30 INFO  pages.LoginPage - ****Entering Password********
+2026-10-05 20:08:30 INFO  pages.LoginPage - ******Checking Visibility of Password Field******
+2026-10-05 20:08:30 INFO  pages.LoginPage - ******Sending Password******
+2026-10-05 20:08:31 INFO  pages.LoginPage - ****Clicking on Login Button********
+2026-10-05 20:08:31 INFO  pages.LoginPage - ******Checking Clickability of Login Button******
+2026-10-05 20:08:31 INFO  pages.LoginPage - ******Clicking on Login Button******
+2026-10-05 20:08:32 INFO  tests.LoginTest - **********Verifying Login Error Message*************
+2026-10-05 20:08:32 INFO  pages.LoginPage - ******Checking Visibility of Login Credential Error Message****
+2026-10-05 20:08:33 INFO  tests.LoginTest - ***********Initializing Driver***********
+2026-10-05 20:08:33 INFO  library.Base - ***********LAUNCHING EDGE BROWSER***********
+2026-10-05 20:08:50 INFO  tests.LoginTest - ***********Initiating LoginPage***********
+2026-10-05 20:08:50 INFO  pages.LoginPage - ****Initiating LoginPage********
+2026-10-05 20:08:50 INFO  tests.LoginTest - ****Initiating loginSuccessTest********
+2026-10-05 20:08:50 INFO  tests.LoginTest - **********Sending Valid Username-Password to LoginPage*************
+2026-10-05 20:08:50 INFO  pages.LoginPage - ******Logging into app****
+2026-10-05 20:08:50 INFO  pages.LoginPage - ****Entering Username********
+2026-10-05 20:08:50 INFO  pages.LoginPage - ******Checking Presence of Username Field******
+2026-10-05 20:08:52 INFO  pages.LoginPage - ******Sending Username******
+2026-10-05 20:08:52 INFO  pages.LoginPage - ****Entering Password********
+2026-10-05 20:08:52 INFO  pages.LoginPage - ******Checking Visibility of Password Field******
+2026-10-05 20:08:52 INFO  pages.LoginPage - ******Sending Password******
+2026-10-05 20:08:52 INFO  pages.LoginPage - ****Clicking on Login Button********
+2026-10-05 20:08:52 INFO  pages.LoginPage - ******Checking Clickability of Login Button******
+2026-10-05 20:08:52 INFO  pages.LoginPage - ******Clicking on Login Button******
+2026-10-05 20:08:55 INFO  pages.HomePage - ****Initiating HomePage********
+2026-10-05 20:08:55 INFO  tests.LoginTest - *****Verifying Dashboard********
+2026-10-05 20:08:55 INFO  pages.HomePage - ********Getting Dashboard Element********
+2026-10-05 20:08:55 ERROR tests.LoginTest - loginSuccessTest Failed : NoSuchElementException FOUND => no such element: Unable to locate element: {"method":"xpath","selector":"//h6[normalize-space()='Dashboard']"}
+2026-10-05 20:08:56 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@681e144: 178 ms
+2026-10-05 20:08:56 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@37864b77: 49 ms
+2026-10-05 20:08:56 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@365a6a43: 29 ms
+2026-10-05 20:08:56 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3c4262d1: 28 ms
+2026-10-05 20:08:56 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@743c6ce4: 17 ms
+2026-10-05 20:08:56 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@70331432: 0 ms
+2026-10-05 20:11:04 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-10-05 20:11:04 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2026-10-05 20:11:04 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:11:04 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:11:04 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:11:04 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:11:04 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:11:04 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:11:04 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:11:04 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:11:04 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:11:04 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:11:04 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:11:04 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:11:04 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:11:04 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:11:04 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 7 ms.
+2026-10-05 20:11:04 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 21 ms.
+2026-10-05 20:11:04 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-10-05 20:11:04 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:11:04 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:11:04 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:11:04 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:11:04 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:11:04 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2026-10-05 20:11:04 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 11 ms.
+2026-10-05 20:11:04 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:11:04 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:11:04 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:11:04 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:11:04 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Rahul Kumar\AppData\Local\Temp\testng-eclipse-686314333\testng-customsuite.xml
+
+2026-10-05 20:11:04 INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 17 ms.
+2026-10-05 20:11:04 INFO  tests.LoginTest - ***********Initializing Driver***********
+2026-10-05 20:11:04 INFO  library.Base - ***********LAUNCHING EDGE BROWSER***********
+2026-10-05 20:11:15 INFO  tests.LoginTest - ***********Initiating LoginPage***********
+2026-10-05 20:11:15 INFO  pages.LoginPage - ****Initiating LoginPage********
+2026-10-05 20:11:15 INFO  tests.LoginTest - **********Sending Username-Password to LoginPage*************
+2026-10-05 20:11:15 INFO  pages.LoginPage - ******Logging into app****
+2026-10-05 20:11:15 INFO  pages.LoginPage - ****Entering Username********
+2026-10-05 20:11:15 INFO  pages.LoginPage - ******Checking Presence of Username Field******
+2026-10-05 20:11:15 INFO  pages.LoginPage - ******Sending Username******
+2026-10-05 20:11:16 INFO  pages.LoginPage - ****Entering Password********
+2026-10-05 20:11:16 INFO  pages.LoginPage - ******Checking Visibility of Password Field******
+2026-10-05 20:11:16 INFO  pages.LoginPage - ******Sending Password******
+2026-10-05 20:11:16 INFO  pages.LoginPage - ****Clicking on Login Button********
+2026-10-05 20:11:16 INFO  pages.LoginPage - ******Checking Clickability of Login Button******
+2026-10-05 20:11:16 INFO  pages.LoginPage - ******Clicking on Login Button******
+2026-10-05 20:11:18 INFO  tests.LoginTest - **********Loading HomePage*************
+2026-10-05 20:11:18 INFO  pages.HomePage - ****Initiating HomePage********
+2026-10-05 20:11:18 INFO  tests.LoginTest - **********Clicking on Logged in User*************
+2026-10-05 20:11:18 INFO  pages.HomePage - ********Checking Clickability of LoggedInUser********
+2026-10-05 20:11:18 INFO  pages.HomePage - ********Clicking on LoggedInUser Button********
+2026-10-05 20:11:18 INFO  pages.HomePage - ********Checking Visibility of Logout Button********
+2026-10-05 20:11:19 INFO  tests.LoginTest - **********Clicking on Logout Button*************
+2026-10-05 20:11:19 INFO  pages.HomePage - ********Checking Clickability of Logout Button********
+2026-10-05 20:11:21 INFO  tests.LoginTest - ***********Verifying Login Page is Displayed after logout********
+2026-10-05 20:11:21 INFO  tests.LoginTest - *****Verifying Logout********
+2026-10-05 20:11:22 INFO  tests.LoginTest - ***********Initializing Driver***********
+2026-10-05 20:11:22 INFO  library.Base - ***********LAUNCHING EDGE BROWSER***********
+2026-10-05 20:11:40 INFO  tests.LoginTest - ***********Initiating LoginPage***********
+2026-10-05 20:11:40 INFO  pages.LoginPage - ****Initiating LoginPage********
+2026-10-05 20:11:40 INFO  tests.LoginTest - *******Initiating loginFailedTest********
+2026-10-05 20:11:40 INFO  tests.LoginTest - **********Sending Invalid Username-Password to LoginPage*************
+2026-10-05 20:11:40 INFO  pages.LoginPage - ******Logging into app****
+2026-10-05 20:11:40 INFO  pages.LoginPage - ****Entering Username********
+2026-10-05 20:11:40 INFO  pages.LoginPage - ******Checking Presence of Username Field******
+2026-10-05 20:11:41 INFO  pages.LoginPage - ******Sending Username******
+2026-10-05 20:11:41 INFO  pages.LoginPage - ****Entering Password********
+2026-10-05 20:11:41 INFO  pages.LoginPage - ******Checking Visibility of Password Field******
+2026-10-05 20:11:41 INFO  pages.LoginPage - ******Sending Password******
+2026-10-05 20:11:41 INFO  pages.LoginPage - ****Clicking on Login Button********
+2026-10-05 20:11:41 INFO  pages.LoginPage - ******Checking Clickability of Login Button******
+2026-10-05 20:11:41 INFO  pages.LoginPage - ******Clicking on Login Button******
+2026-10-05 20:11:43 INFO  tests.LoginTest - **********Verifying Login Error Message*************
+2026-10-05 20:11:43 INFO  pages.LoginPage - ******Checking Visibility of Login Credential Error Message****
+2026-10-05 20:11:44 INFO  tests.LoginTest - ***********Initializing Driver***********
+2026-10-05 20:11:44 INFO  library.Base - ***********LAUNCHING EDGE BROWSER***********
+2026-10-05 20:11:54 INFO  tests.LoginTest - ***********Initiating LoginPage***********
+2026-10-05 20:11:54 INFO  pages.LoginPage - ****Initiating LoginPage********
+2026-10-05 20:11:54 INFO  tests.LoginTest - ****Initiating loginSuccessTest********
+2026-10-05 20:11:54 INFO  tests.LoginTest - **********Sending Valid Username-Password to LoginPage*************
+2026-10-05 20:11:54 INFO  pages.LoginPage - ******Logging into app****
+2026-10-05 20:11:54 INFO  pages.LoginPage - ****Entering Username********
+2026-10-05 20:11:54 INFO  pages.LoginPage - ******Checking Presence of Username Field******
+2026-10-05 20:11:55 INFO  pages.LoginPage - ******Sending Username******
+2026-10-05 20:11:56 INFO  pages.LoginPage - ****Entering Password********
+2026-10-05 20:11:56 INFO  pages.LoginPage - ******Checking Visibility of Password Field******
+2026-10-05 20:11:56 INFO  pages.LoginPage - ******Sending Password******
+2026-10-05 20:11:56 INFO  pages.LoginPage - ****Clicking on Login Button********
+2026-10-05 20:11:56 INFO  pages.LoginPage - ******Checking Clickability of Login Button******
+2026-10-05 20:11:56 INFO  pages.LoginPage - ******Clicking on Login Button******
+2026-10-05 20:11:58 INFO  pages.HomePage - ****Initiating HomePage********
+2026-10-05 20:11:58 INFO  tests.LoginTest - *****Verifying Dashboard********
+2026-10-05 20:11:58 INFO  pages.HomePage - ********Getting Dashboard Element********
+2026-10-05 20:11:58 ERROR tests.LoginTest - loginSuccessTest Failed : NoSuchElementException FOUND => no such element: Unable to locate element: {"method":"xpath","selector":"//h6[normalize-space()='Dashboard']"}
+2026-10-05 20:11:59 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@7aead3af: 189 ms
+2026-10-05 20:11:59 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@1a480135: 32 ms
+2026-10-05 20:11:59 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@134c370e: 31 ms
+2026-10-05 20:11:59 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@e1e2e5e: 29 ms
+2026-10-05 20:11:59 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@3730ab42: 15 ms
+2026-10-05 20:11:59 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@537c8c7e: 0 ms
+2026-10-05 20:13:25 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-10-05 20:13:25 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+2026-10-05 20:13:25 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:13:25 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:13:25 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:13:25 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:13:25 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:13:25 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:13:25 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:13:25 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:13:25 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:13:25 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:13:25 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:13:25 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:13:25 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:13:25 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:13:25 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 8 ms.
+2026-10-05 20:13:25 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 19 ms.
+2026-10-05 20:13:25 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:13:25 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+2026-10-05 20:13:25 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:13:25 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:13:25 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:13:25 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:13:25 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:13:25 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 11 ms.
+2026-10-05 20:13:25 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:13:25 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:13:25 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:13:25 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:13:25 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Rahul Kumar\AppData\Local\Temp\testng-eclipse-1737230500\testng-customsuite.xml
+
+2026-10-05 20:13:26 INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 16 ms.
+2026-10-05 20:13:26 INFO  tests.LoginTest - ***********Initializing Driver***********
+2026-10-05 20:13:26 INFO  library.Base - ***********LAUNCHING EDGE BROWSER***********
+2026-10-05 20:13:40 INFO  tests.LoginTest - ***********Initiating LoginPage***********
+2026-10-05 20:13:40 INFO  pages.LoginPage - ****Initiating LoginPage********
+2026-10-05 20:13:40 INFO  tests.LoginTest - **********Sending Username-Password to LoginPage*************
+2026-10-05 20:13:40 INFO  pages.LoginPage - ******Logging into app****
+2026-10-05 20:13:40 INFO  pages.LoginPage - ****Entering Username********
+2026-10-05 20:13:40 INFO  pages.LoginPage - ******Checking Presence of Username Field******
+2026-10-05 20:13:41 INFO  pages.LoginPage - ******Sending Username******
+2026-10-05 20:13:41 INFO  pages.LoginPage - ****Entering Password********
+2026-10-05 20:13:41 INFO  pages.LoginPage - ******Checking Visibility of Password Field******
+2026-10-05 20:13:41 INFO  pages.LoginPage - ******Sending Password******
+2026-10-05 20:13:42 INFO  pages.LoginPage - ****Clicking on Login Button********
+2026-10-05 20:13:42 INFO  pages.LoginPage - ******Checking Clickability of Login Button******
+2026-10-05 20:13:42 INFO  pages.LoginPage - ******Clicking on Login Button******
+2026-10-05 20:13:44 INFO  tests.LoginTest - **********Loading HomePage*************
+2026-10-05 20:13:44 INFO  pages.HomePage - ****Initiating HomePage********
+2026-10-05 20:13:44 INFO  tests.LoginTest - **********Clicking on Logged in User*************
+2026-10-05 20:13:44 INFO  pages.HomePage - ********Checking Clickability of LoggedInUser********
+2026-10-05 20:13:45 INFO  pages.HomePage - ********Clicking on LoggedInUser Button********
+2026-10-05 20:13:45 INFO  pages.HomePage - ********Checking Visibility of Logout Button********
+2026-10-05 20:13:46 INFO  tests.LoginTest - **********Clicking on Logout Button*************
+2026-10-05 20:13:46 INFO  pages.HomePage - ********Checking Clickability of Logout Button********
+2026-10-05 20:13:48 INFO  tests.LoginTest - ***********Verifying Login Page is Displayed after logout********
+2026-10-05 20:13:48 INFO  tests.LoginTest - *****Verifying Logout********
+2026-10-05 20:13:49 INFO  tests.LoginTest - ***********Initializing Driver***********
+2026-10-05 20:13:49 INFO  library.Base - ***********LAUNCHING EDGE BROWSER***********
+2026-10-05 20:14:08 INFO  tests.LoginTest - ***********Initiating LoginPage***********
+2026-10-05 20:14:08 INFO  pages.LoginPage - ****Initiating LoginPage********
+2026-10-05 20:14:08 INFO  tests.LoginTest - *******Initiating loginFailedTest********
+2026-10-05 20:14:08 INFO  tests.LoginTest - **********Sending Invalid Username-Password to LoginPage*************
+2026-10-05 20:14:08 INFO  pages.LoginPage - ******Logging into app****
+2026-10-05 20:14:08 INFO  pages.LoginPage - ****Entering Username********
+2026-10-05 20:14:08 INFO  pages.LoginPage - ******Checking Presence of Username Field******
+2026-10-05 20:14:09 INFO  pages.LoginPage - ******Sending Username******
+2026-10-05 20:14:09 INFO  pages.LoginPage - ****Entering Password********
+2026-10-05 20:14:09 INFO  pages.LoginPage - ******Checking Visibility of Password Field******
+2026-10-05 20:14:10 INFO  pages.LoginPage - ******Sending Password******
+2026-10-05 20:14:10 INFO  pages.LoginPage - ****Clicking on Login Button********
+2026-10-05 20:14:10 INFO  pages.LoginPage - ******Checking Clickability of Login Button******
+2026-10-05 20:14:10 INFO  pages.LoginPage - ******Clicking on Login Button******
+2026-10-05 20:14:13 INFO  tests.LoginTest - **********Verifying Login Error Message*************
+2026-10-05 20:14:13 INFO  pages.LoginPage - ******Checking Visibility of Login Credential Error Message****
+2026-10-05 20:14:14 INFO  tests.LoginTest - ***********Initializing Driver***********
+2026-10-05 20:14:14 INFO  library.Base - ***********LAUNCHING EDGE BROWSER***********
+2026-10-05 20:14:32 INFO  tests.LoginTest - ***********Initiating LoginPage***********
+2026-10-05 20:14:32 INFO  pages.LoginPage - ****Initiating LoginPage********
+2026-10-05 20:14:32 INFO  tests.LoginTest - ****Initiating loginSuccessTest********
+2026-10-05 20:14:32 INFO  tests.LoginTest - **********Sending Valid Username-Password to LoginPage*************
+2026-10-05 20:14:32 INFO  pages.LoginPage - ******Logging into app****
+2026-10-05 20:14:32 INFO  pages.LoginPage - ****Entering Username********
+2026-10-05 20:14:32 INFO  pages.LoginPage - ******Checking Presence of Username Field******
+2026-10-05 20:14:33 INFO  pages.LoginPage - ******Sending Username******
+2026-10-05 20:14:33 INFO  pages.LoginPage - ****Entering Password********
+2026-10-05 20:14:33 INFO  pages.LoginPage - ******Checking Visibility of Password Field******
+2026-10-05 20:14:33 INFO  pages.LoginPage - ******Sending Password******
+2026-10-05 20:14:33 INFO  pages.LoginPage - ****Clicking on Login Button********
+2026-10-05 20:14:33 INFO  pages.LoginPage - ******Checking Clickability of Login Button******
+2026-10-05 20:14:34 INFO  pages.LoginPage - ******Clicking on Login Button******
+2026-10-05 20:14:37 INFO  pages.HomePage - ****Initiating HomePage********
+2026-10-05 20:14:37 INFO  tests.LoginTest - *****Verifying Dashboard********
+2026-10-05 20:14:37 INFO  pages.HomePage - ********Getting Dashboard Element********
+2026-10-05 20:14:37 ERROR tests.LoginTest - loginSuccessTest Failed : NoSuchElementException FOUND => no such element: Unable to locate element: {"method":"xpath","selector":"//h6[normalize-space()='Dashboard']"}
+2026-10-05 20:20:48 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:20:48 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+2026-10-05 20:20:48 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:20:48 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:20:48 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:20:48 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:20:48 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:20:48 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:20:48 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:20:48 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:20:48 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:20:48 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:20:48 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:20:48 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:20:48 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:20:48 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:20:48 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 18 ms.
+2026-10-05 20:20:48 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 26 ms.
+2026-10-05 20:20:48 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:20:48 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:20:48 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:20:48 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:20:48 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:20:48 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:20:48 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2026-10-05 20:20:48 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 29 ms.
+2026-10-05 20:20:48 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:20:48 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:20:48 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:20:48 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:20:49 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Rahul Kumar\AppData\Local\Temp\testng-eclipse-983568702\testng-customsuite.xml
+
+2026-10-05 20:20:49 INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms.
+2026-10-05 20:20:49 INFO  tests.LoginTest - ***********Initializing Driver***********
+2026-10-05 20:20:49 INFO  library.Base - ***********LAUNCHING EDGE BROWSER***********
+2026-10-05 20:21:07 INFO  tests.LoginTest - ***********Initiating LoginPage***********
+2026-10-05 20:21:07 INFO  pages.LoginPage - ****Initiating LoginPage********
+2026-10-05 20:21:07 INFO  tests.LoginTest - **********Sending Username-Password to LoginPage*************
+2026-10-05 20:21:07 INFO  pages.LoginPage - ******Logging into app****
+2026-10-05 20:21:07 INFO  pages.LoginPage - ****Entering Username********
+2026-10-05 20:21:07 INFO  pages.LoginPage - ******Checking Presence of Username Field******
+2026-10-05 20:21:08 INFO  pages.LoginPage - ******Sending Username******
+2026-10-05 20:21:08 INFO  pages.LoginPage - ****Entering Password********
+2026-10-05 20:21:08 INFO  pages.LoginPage - ******Checking Visibility of Password Field******
+2026-10-05 20:21:08 INFO  pages.LoginPage - ******Sending Password******
+2026-10-05 20:21:08 INFO  pages.LoginPage - ****Clicking on Login Button********
+2026-10-05 20:21:08 INFO  pages.LoginPage - ******Checking Clickability of Login Button******
+2026-10-05 20:21:08 INFO  pages.LoginPage - ******Clicking on Login Button******
+2026-10-05 20:21:11 INFO  tests.LoginTest - **********Loading HomePage*************
+2026-10-05 20:21:11 INFO  pages.HomePage - ****Initiating HomePage********
+2026-10-05 20:21:11 INFO  tests.LoginTest - **********Clicking on Logged in User*************
+2026-10-05 20:21:11 INFO  pages.HomePage - ********Checking Clickability of LoggedInUser********
+2026-10-05 20:21:12 INFO  pages.HomePage - ********Clicking on LoggedInUser Button********
+2026-10-05 20:21:13 INFO  pages.HomePage - ********Checking Visibility of Logout Button********
+2026-10-05 20:21:14 INFO  tests.LoginTest - **********Clicking on Logout Button*************
+2026-10-05 20:21:14 INFO  pages.HomePage - ********Checking Clickability of Logout Button********
+2026-10-05 20:21:15 INFO  tests.LoginTest - ***********Verifying Login Page is Displayed after logout********
+2026-10-05 20:21:15 INFO  tests.LoginTest - *****Verifying Logout********
+2026-10-05 20:21:16 INFO  tests.LoginTest - ***********Initializing Driver***********
+2026-10-05 20:21:16 INFO  library.Base - ***********LAUNCHING EDGE BROWSER***********
+2026-10-05 20:21:38 INFO  tests.LoginTest - ***********Initiating LoginPage***********
+2026-10-05 20:21:38 INFO  pages.LoginPage - ****Initiating LoginPage********
+2026-10-05 20:21:38 INFO  tests.LoginTest - *******Initiating loginFailedTest********
+2026-10-05 20:21:38 INFO  tests.LoginTest - **********Sending Invalid Username-Password to LoginPage*************
+2026-10-05 20:21:38 INFO  pages.LoginPage - ******Logging into app****
+2026-10-05 20:21:38 INFO  pages.LoginPage - ****Entering Username********
+2026-10-05 20:21:38 INFO  pages.LoginPage - ******Checking Presence of Username Field******
+2026-10-05 20:21:39 INFO  pages.LoginPage - ******Sending Username******
+2026-10-05 20:21:39 INFO  pages.LoginPage - ****Entering Password********
+2026-10-05 20:21:39 INFO  pages.LoginPage - ******Checking Visibility of Password Field******
+2026-10-05 20:21:39 INFO  pages.LoginPage - ******Sending Password******
+2026-10-05 20:21:39 INFO  pages.LoginPage - ****Clicking on Login Button********
+2026-10-05 20:21:39 INFO  pages.LoginPage - ******Checking Clickability of Login Button******
+2026-10-05 20:21:40 INFO  pages.LoginPage - ******Clicking on Login Button******
+2026-10-05 20:21:42 INFO  tests.LoginTest - **********Verifying Login Error Message*************
+2026-10-05 20:21:42 INFO  pages.LoginPage - ******Checking Visibility of Login Credential Error Message****
+2026-10-05 20:21:43 INFO  tests.LoginTest - ***********Initializing Driver***********
+2026-10-05 20:21:43 INFO  library.Base - ***********LAUNCHING EDGE BROWSER***********
+2026-10-05 20:21:52 INFO  tests.LoginTest - ***********Initiating LoginPage***********
+2026-10-05 20:21:52 INFO  pages.LoginPage - ****Initiating LoginPage********
+2026-10-05 20:21:52 INFO  tests.LoginTest - ****Initiating loginSuccessTest********
+2026-10-05 20:21:52 INFO  tests.LoginTest - **********Sending Valid Username-Password to LoginPage*************
+2026-10-05 20:21:52 INFO  pages.LoginPage - ******Logging into app****
+2026-10-05 20:21:52 INFO  pages.LoginPage - ****Entering Username********
+2026-10-05 20:21:52 INFO  pages.LoginPage - ******Checking Presence of Username Field******
+2026-10-05 20:21:52 INFO  pages.LoginPage - ******Sending Username******
+2026-10-05 20:21:52 INFO  pages.LoginPage - ****Entering Password********
+2026-10-05 20:21:52 INFO  pages.LoginPage - ******Checking Visibility of Password Field******
+2026-10-05 20:21:53 INFO  pages.LoginPage - ******Sending Password******
+2026-10-05 20:21:53 INFO  pages.LoginPage - ****Clicking on Login Button********
+2026-10-05 20:21:53 INFO  pages.LoginPage - ******Checking Clickability of Login Button******
+2026-10-05 20:21:53 INFO  pages.LoginPage - ******Clicking on Login Button******
+2026-10-05 20:21:54 INFO  pages.HomePage - ****Initiating HomePage********
+2026-10-05 20:21:54 INFO  tests.LoginTest - *****Verifying Dashboard********
+2026-10-05 20:21:54 INFO  pages.HomePage - ********Getting Dashboard Element********
+2026-10-05 20:21:54 ERROR tests.LoginTest - loginSuccessTest Failed : NoSuchElementException FOUND => no such element: Unable to locate element: {"method":"xpath","selector":"//h6[normalize-space()='Dashboard']"}
+2026-10-05 20:33:57 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:33:57 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+2026-10-05 20:33:57 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-10-05 20:33:57 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:33:57 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:33:57 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:33:57 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:33:57 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:33:57 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:33:57 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:33:57 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:33:57 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:33:57 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:33:57 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:33:57 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:33:57 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:33:57 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 19 ms.
+2026-10-05 20:33:57 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 14 ms.
+2026-10-05 20:33:57 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:33:57 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:33:57 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:33:57 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:33:57 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:33:57 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:33:57 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-10-05 20:33:57 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:33:57 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:33:57 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:33:57 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:33:57 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:33:58 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Rahul Kumar\AppData\Local\Temp\testng-eclipse-1380775707\testng-customsuite.xml
+
+2026-10-05 20:33:58 INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+2026-10-05 20:33:58 INFO  tests.LoginTest - ***********Initializing Driver***********
+2026-10-05 20:33:58 INFO  library.Base - ***********LAUNCHING EDGE BROWSER***********
+2026-10-05 20:34:15 INFO  tests.LoginTest - ***********Initiating LoginPage***********
+2026-10-05 20:34:15 INFO  pages.LoginPage - ****Initiating LoginPage********
+2026-10-05 20:34:15 INFO  tests.LoginTest - ****Initiating loginSuccessTest********
+2026-10-05 20:34:15 INFO  tests.LoginTest - **********Sending Valid Username-Password to LoginPage*************
+2026-10-05 20:34:15 INFO  pages.LoginPage - ******Logging into app****
+2026-10-05 20:34:15 INFO  pages.LoginPage - ****Entering Username********
+2026-10-05 20:34:15 INFO  pages.LoginPage - ******Checking Presence of Username Field******
+2026-10-05 20:34:16 INFO  pages.LoginPage - ******Sending Username******
+2026-10-05 20:34:16 INFO  pages.LoginPage - ****Entering Password********
+2026-10-05 20:34:16 INFO  pages.LoginPage - ******Checking Visibility of Password Field******
+2026-10-05 20:34:16 INFO  pages.LoginPage - ******Sending Password******
+2026-10-05 20:34:17 INFO  pages.LoginPage - ****Clicking on Login Button********
+2026-10-05 20:34:17 INFO  pages.LoginPage - ******Checking Clickability of Login Button******
+2026-10-05 20:34:17 INFO  pages.LoginPage - ******Clicking on Login Button******
+2026-10-05 20:34:20 INFO  pages.HomePage - ****Initiating HomePage********
+2026-10-05 20:34:20 INFO  tests.LoginTest - *****Verifying Dashboard********
+2026-10-05 20:34:20 INFO  pages.HomePage - ********Getting Dashboard Element********
+2026-10-05 20:34:20 ERROR tests.LoginTest - loginSuccessTest Failed : NoSuchElementException FOUND => no such element: Unable to locate element: {"method":"xpath","selector":"//h6[normalize-space()='Dashboard']"}
+2026-10-05 20:36:53 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-10-05 20:36:53 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+2026-10-05 20:36:53 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:36:53 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:36:53 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:36:53 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:36:53 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:36:53 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:36:53 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:36:53 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:36:53 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:36:53 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:36:53 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:36:53 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:36:53 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:36:53 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:36:53 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 18 ms.
+2026-10-05 20:36:53 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 19 ms.
+2026-10-05 20:36:53 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:36:53 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:36:53 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:36:53 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:36:53 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:36:53 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:36:53 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-10-05 20:36:53 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-10-05 20:36:53 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:36:53 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:36:53 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:36:53 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:36:53 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Rahul Kumar\AppData\Local\Temp\testng-eclipse-1766707857\testng-customsuite.xml
+
+2026-10-05 20:36:54 INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 20 ms.
+2026-10-05 20:36:54 INFO  tests.LoginTest - ***********Initializing Driver***********
+2026-10-05 20:36:54 INFO  library.Base - ***********LAUNCHING EDGE BROWSER***********
+2026-10-05 20:37:05 INFO  tests.LoginTest - ***********Initiating LoginPage***********
+2026-10-05 20:37:05 INFO  pages.LoginPage - ****Initiating LoginPage********
+2026-10-05 20:37:05 INFO  tests.LoginTest - ****Initiating loginSuccessTest********
+2026-10-05 20:37:05 INFO  tests.LoginTest - **********Sending Valid Username-Password to LoginPage*************
+2026-10-05 20:37:05 INFO  pages.LoginPage - ******Logging into app****
+2026-10-05 20:37:05 INFO  pages.LoginPage - ****Entering Username********
+2026-10-05 20:37:05 INFO  pages.LoginPage - ******Checking Presence of Username Field******
+2026-10-05 20:37:06 INFO  pages.LoginPage - ******Sending Username******
+2026-10-05 20:37:06 INFO  pages.LoginPage - ****Entering Password********
+2026-10-05 20:37:06 INFO  pages.LoginPage - ******Checking Visibility of Password Field******
+2026-10-05 20:37:06 INFO  pages.LoginPage - ******Sending Password******
+2026-10-05 20:37:06 INFO  pages.LoginPage - ****Clicking on Login Button********
+2026-10-05 20:37:06 INFO  pages.LoginPage - ******Checking Clickability of Login Button******
+2026-10-05 20:37:07 INFO  pages.LoginPage - ******Clicking on Login Button******
+2026-10-05 20:37:08 INFO  pages.HomePage - ****Initiating HomePage********
+2026-10-05 20:37:08 INFO  tests.LoginTest - *****Verifying Dashboard********
+2026-10-05 20:37:08 INFO  pages.HomePage - ********Getting Dashboard Element********
+2026-10-05 20:37:08 ERROR tests.LoginTest - loginSuccessTest Failed : NoSuchElementException FOUND => no such element: Unable to locate element: {"method":"xpath","selector":"//h6[normalize-space()='Dashboard']"}
+2026-10-05 20:38:42 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-10-05 20:38:42 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2026-10-05 20:38:42 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:38:42 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:38:42 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:38:42 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:38:42 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:38:42 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:38:42 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:38:42 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:38:42 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:38:42 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:38:42 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:38:42 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:38:42 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:38:42 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:38:42 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 9 ms.
+2026-10-05 20:38:42 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 24 ms.
+2026-10-05 20:38:42 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:38:42 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-10-05 20:38:42 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:38:42 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:38:42 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:38:42 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:38:42 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2026-10-05 20:38:42 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:38:42 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:38:42 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:38:42 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-05 20:38:42 INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-05 20:38:43 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Rahul Kumar\AppData\Local\Temp\testng-eclipse--1736325254\testng-customsuite.xml
+
+2026-10-05 20:38:43 INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 14 ms.
+2026-10-05 20:38:43 INFO  tests.LoginTest - ***********Initializing Driver***********
+2026-10-05 20:38:43 INFO  library.Base - ***********LAUNCHING EDGE BROWSER***********
+2026-10-05 20:38:56 INFO  tests.LoginTest - ***********Initiating LoginPage***********
+2026-10-05 20:38:56 INFO  pages.LoginPage - ****Initiating LoginPage********
+2026-10-05 20:38:56 INFO  tests.LoginTest - ****Initiating loginSuccessTest********
+2026-10-05 20:38:56 INFO  tests.LoginTest - **********Sending Valid Username-Password to LoginPage*************
+2026-10-05 20:38:56 INFO  pages.LoginPage - ******Logging into app****
+2026-10-05 20:38:56 INFO  pages.LoginPage - ****Entering Username********
+2026-10-05 20:38:56 INFO  pages.LoginPage - ******Checking Presence of Username Field******
+2026-10-05 20:38:58 INFO  pages.LoginPage - ******Sending Username******
+2026-10-05 20:38:58 INFO  pages.LoginPage - ****Entering Password********
+2026-10-05 20:38:58 INFO  pages.LoginPage - ******Checking Visibility of Password Field******
+2026-10-05 20:38:58 INFO  pages.LoginPage - ******Sending Password******
+2026-10-05 20:38:58 INFO  pages.LoginPage - ****Clicking on Login Button********
+2026-10-05 20:38:58 INFO  pages.LoginPage - ******Checking Clickability of Login Button******
+2026-10-05 20:38:59 INFO  pages.LoginPage - ******Clicking on Login Button******
+2026-10-05 20:39:03 INFO  pages.HomePage - ****Initiating HomePage********
+2026-10-05 20:39:03 INFO  tests.LoginTest - *****Verifying Dashboard********
+2026-10-05 20:39:03 INFO  pages.HomePage - ********Getting Dashboard Element********
+2026-10-05 20:39:03 ERROR tests.LoginTest - loginSuccessTest Failed : NoSuchElementException FOUND => no such element: Unable to locate element: {"method":"xpath","selector":"//h6[normalize-space()='Dashboard']"}
+2026-10-05 20:39:05 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@4047d2d9: 137 ms
+2026-10-05 20:39:05 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@60f70249: 23 ms
+2026-10-05 20:39:05 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@767a014e: 25 ms
+2026-10-05 20:39:05 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@54e3658c: 16 ms
+2026-10-05 20:39:05 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@cdb2d95: 26 ms
+2026-10-05 20:39:05 INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@122d6c22: 0 ms

@@ -1,0 +1,809 @@
+2026-09-28 11:00:57 INFO  library.Init - ***********LAUNCHING EDGE BROWSER***********
+2026-09-28 11:01:00 INFO  library.Init - ***********OPENING URL***********
+2026-09-28 11:01:08 INFO  tests.LoginTest - ****Initiating loginSuccessTest********
+2026-09-28 11:01:08 INFO  tests.LoginTest - ****Entering Valid Username********
+2026-09-28 11:01:08 INFO  tests.LoginTest - ****Entering Valid Password********
+2026-09-28 11:01:09 INFO  tests.LoginTest - ****Clicking on Login Button********
+2026-09-28 11:01:31 ERROR tests.LoginTest - LoginSuccessTest FAILED: Expected condition failed: waiting for presence of element found by By.xpath: //h6[normalize-space()='Dashboard']
+2026-09-28 11:01:31 INFO  tests.LoginTest - ****Initiating logoutSuccessTest********
+2026-09-28 11:01:31 INFO  tests.LoginTest - ****Clicking on UserName********
+2026-09-28 11:01:31 ERROR tests.LoginTest - LogoutTest FAILED: Cannot invoke "pages.HomePage.loggedInUser()" because "this.home" is null
+2026-09-28 11:01:31 INFO  tests.LoginTest - *******Initiating loginFailedTest********
+2026-09-28 11:01:31 INFO  tests.LoginTest - *******Entering Invalid Username********
+2026-09-28 11:01:31 INFO  tests.LoginTest - ****Entering Invalid Password********
+2026-09-28 11:01:32 INFO  tests.LoginTest - ****Clicking on Login Button********
+2026-09-28 11:01:32 INFO  tests.LoginTest - ****Verifying Error Message********
+2026-09-28 11:01:34 INFO  tests.LoginTest - LoginFailedTest pass
+2026-09-28 11:04:02 INFO  library.Init - ***********LAUNCHING EDGE BROWSER***********
+2026-09-28 11:04:05 INFO  library.Init - ***********OPENING URL***********
+2026-09-28 11:04:10 INFO  tests.LoginTest - ****Initiating loginSuccessTest********
+2026-09-28 11:04:10 INFO  tests.LoginTest - ****Entering Valid Username********
+2026-09-28 11:04:10 INFO  tests.LoginTest - ****Entering Valid Password********
+2026-09-28 11:04:10 INFO  tests.LoginTest - ****Clicking on Login Button********
+2026-09-28 11:04:33 ERROR tests.LoginTest - LoginSuccessTest FAILED: Expected condition failed: waiting for presence of element found by By.xpath: //h6[normalize-space()='Dashboard']
+2026-09-28 11:04:33 INFO  tests.LoginTest - ****Initiating logoutSuccessTest********
+2026-09-28 11:04:33 INFO  tests.LoginTest - ****Clicking on UserName********
+2026-09-28 11:04:33 ERROR tests.LoginTest - LogoutTest FAILED: Cannot invoke "pages.HomePage.loggedInUser()" because "this.home" is null
+2026-09-28 11:04:33 INFO  tests.LoginTest - *******Initiating loginFailedTest********
+2026-09-28 11:04:33 INFO  tests.LoginTest - *******Entering Invalid Username********
+2026-09-28 11:04:33 INFO  tests.LoginTest - ****Entering Invalid Password********
+2026-09-28 11:04:33 INFO  tests.LoginTest - ****Clicking on Login Button********
+2026-09-28 11:04:33 INFO  tests.LoginTest - ****Verifying Error Message********
+2026-09-28 11:04:35 INFO  tests.LoginTest - LoginFailedTest pass
+2026-09-28 11:05:11 INFO  library.Init - ***********LAUNCHING EDGE BROWSER***********
+2026-09-28 11:05:14 INFO  library.Init - ***********OPENING URL***********
+2026-09-28 11:05:18 INFO  tests.LoginTest - ****Initiating loginSuccessTest********
+2026-09-28 11:05:18 INFO  tests.LoginTest - ****Entering Valid Username********
+2026-09-28 11:05:18 INFO  tests.LoginTest - ****Entering Valid Password********
+2026-09-28 11:05:19 INFO  tests.LoginTest - ****Clicking on Login Button********
+2026-09-28 11:05:48 INFO  library.Init - ***********LAUNCHING EDGE BROWSER***********
+2026-09-28 11:05:51 INFO  library.Init - ***********OPENING URL***********
+2026-09-28 11:05:57 INFO  tests.LoginTest - ****Initiating loginSuccessTest********
+2026-09-28 11:05:57 INFO  tests.LoginTest - ****Entering Valid Username********
+2026-09-28 11:05:57 INFO  tests.LoginTest - ****Entering Valid Password********
+2026-09-28 11:05:57 INFO  tests.LoginTest - ****Clicking on Login Button********
+2026-09-28 11:06:07 INFO  library.Init - ***********LAUNCHING EDGE BROWSER***********
+2026-09-28 11:06:09 INFO  library.Init - ***********OPENING URL***********
+2026-09-28 11:06:15 INFO  tests.LoginTest - ****Initiating loginSuccessTest********
+2026-09-28 11:06:15 INFO  tests.LoginTest - ****Entering Valid Username********
+2026-09-28 11:06:15 INFO  tests.LoginTest - ****Entering Valid Password********
+2026-09-28 11:06:15 INFO  tests.LoginTest - ****Clicking on Login Button********
+2026-09-28 11:06:17 INFO  tests.LoginTest - *****Verifying Dashboard********
+2026-09-28 11:06:17 INFO  tests.LoginTest - LoginSuccessTest PASS
+2026-09-28 11:06:17 INFO  tests.LoginTest - ****Initiating logoutSuccessTest********
+2026-09-28 11:06:17 INFO  tests.LoginTest - ****Clicking on UserName********
+2026-09-28 11:06:18 INFO  tests.LoginTest - ****Clicking on LogOut Button********
+2026-09-28 11:06:19 INFO  tests.LoginTest - LogoutTest PASS
+2026-09-28 11:06:19 INFO  tests.LoginTest - *******Initiating loginFailedTest********
+2026-09-28 11:06:19 INFO  tests.LoginTest - *******Entering Invalid Username********
+2026-09-28 11:06:21 INFO  tests.LoginTest - ****Entering Invalid Password********
+2026-09-28 11:06:21 INFO  tests.LoginTest - ****Clicking on Login Button********
+2026-09-28 11:06:23 INFO  tests.LoginTest - ****Verifying Error Message********
+2026-09-28 11:06:23 INFO  tests.LoginTest - LoginFailedTest pass
+2026-09-28 11:09:08 INFO  library.Init - ***********LAUNCHING EDGE BROWSER***********
+2026-09-28 11:09:11 INFO  library.Init - ***********OPENING URL***********
+2026-09-28 11:11:40 INFO  library.Init - ***********LAUNCHING EDGE BROWSER***********
+2026-09-28 11:11:43 INFO  library.Init - ***********OPENING URL***********
+2026-09-28 11:19:48 INFO  library.Init - ***********LAUNCHING EDGE BROWSER***********
+2026-09-28 11:19:50 INFO  library.Init - ***********OPENING URL***********
+2026-09-28 11:39:14 INFO  library.Init - ***********LAUNCHING EDGE BROWSER***********
+2026-09-28 11:39:17 INFO  library.Init - ***********OPENING URL***********
+2026-09-28 11:46:32 INFO  library.Init - ***********LAUNCHING EDGE BROWSER***********
+2026-09-28 11:46:35 INFO  library.Init - ***********OPENING URL***********
+2026-09-28 12:18:13 INFO  library.Init - ***********LAUNCHING EDGE BROWSER***********
+2026-09-28 12:18:16 INFO  library.Init - ***********OPENING URL***********
+2026-09-28 12:20:15 INFO  library.Init - ***********LAUNCHING EDGE BROWSER***********
+2026-09-28 12:20:18 INFO  library.Init - ***********OPENING URL***********
+2026-09-28 12:26:07 INFO  library.Init - ***********LAUNCHING EDGE BROWSER***********
+2026-09-28 12:26:10 INFO  library.Init - ***********OPENING URL***********
+2026-09-28 12:48:01 INFO  library.Init - ***********LAUNCHING EDGE BROWSER***********
+2026-09-28 12:48:04 INFO  library.Init - ***********OPENING URL***********
+2026-09-28 12:48:33 INFO  tests.MyInfoFormTest - ********Enetering Username*********
+2026-09-28 12:48:33 INFO  tests.MyInfoFormTest - ********Enetering Password*********
+2026-09-28 12:48:33 INFO  tests.MyInfoFormTest - ********Clicking on Login Button*********
+2026-09-28 12:48:37 INFO  tests.MyInfoFormTest - ********Initiating Homepage*********
+2026-09-28 12:48:37 INFO  tests.MyInfoFormTest - ********Finding dashboard*********
+2026-09-28 12:48:37 INFO  tests.MyInfoFormTest - ********Clicking on MyInfo Button*********
+2026-09-28 12:48:39 INFO  tests.MyInfoFormTest - ********Initiating MyInfo Page*********
+2026-09-28 12:48:40 INFO  tests.MyInfoFormTest - ********Enetering First Name*********
+2026-09-28 12:48:41 INFO  tests.MyInfoFormTest - ********Enetering Middle Name*********
+2026-09-28 12:48:42 INFO  tests.MyInfoFormTest - ********Enetering last Name*********
+2026-09-28 12:48:42 INFO  tests.MyInfoFormTest - ********Enetering Employee ID*********
+2026-09-28 12:48:42 INFO  tests.MyInfoFormTest - ********Enetering Driving License Number*********
+2026-09-28 12:48:43 INFO  tests.MyInfoFormTest - ********Enetering Driving License Expiry Date*********
+2026-09-28 12:48:56 INFO  tests.MyInfoFormTest - ********Enetering Nationality*********
+2026-09-28 12:49:02 INFO  tests.MyInfoFormTest - ********Enetering Marital Status*********
+2026-09-28 12:49:02 INFO  tests.MyInfoFormTest - ********Selecting Gender*********
+2026-09-28 12:49:02 INFO  tests.MyInfoFormTest - ********Enetering Date of Birth*********
+2026-09-28 12:49:28 INFO  tests.MyInfoFormTest - ********Enetering Blood Type*********
+2026-09-28 12:49:28 INFO  tests.MyInfoFormTest - ********Enetering Test*********
+2026-09-28 12:49:29 INFO  tests.MyInfoFormTest - ********Adding Attachment*********
+2026-09-28 12:49:33 INFO  tests.MyInfoFormTest - ********Validating Upload*********
+2026-09-28 15:22:26 INFO  library.Init - ***********LAUNCHING EDGE BROWSER***********
+2026-09-28 15:22:29 INFO  library.Init - ***********OPENING URL***********
+2026-09-28 15:22:38 INFO  pages.LoginPage - ****Initiating LoginPage********
+2026-09-28 15:22:39 INFO  tests.LoginTest - ****Initiating loginSuccessTest********
+2026-09-28 15:22:39 INFO  tests.LoginTest - ****Entering Valid Username********
+2026-09-28 15:22:39 INFO  pages.LoginPage - ******Checking Presence of Username Field******
+2026-09-28 15:22:39 INFO  pages.LoginPage - ******Sending Username******
+2026-09-28 15:22:40 INFO  tests.LoginTest - ****Entering Valid Password********
+2026-09-28 15:22:40 INFO  pages.LoginPage - ******Checking Visibility of Password Field******
+2026-09-28 15:22:40 INFO  pages.LoginPage - ******Sending Password******
+2026-09-28 15:22:40 INFO  tests.LoginTest - ****Clicking on Login Button********
+2026-09-28 15:22:40 INFO  pages.LoginPage - ******Checking Clickability of Login Button******
+2026-09-28 15:22:40 INFO  pages.LoginPage - ******Clicking on Login Button******
+2026-09-28 15:22:42 INFO  pages.HomePage - ****Initiating HomePage********
+2026-09-28 15:22:43 INFO  tests.LoginTest - *****Verifying Dashboard********
+2026-09-28 15:22:43 INFO  pages.HomePage - ********Getting Dashboard Element********
+2026-09-28 15:22:43 INFO  pages.HomePage - ********Getting Dashboard Element********
+2026-09-28 15:22:43 INFO  pages.HomePage - ********Getting Dashboard Element********
+2026-09-28 15:22:43 ERROR tests.LoginTest - Expected DashBoard but Found Dashboard
+2026-09-28 15:30:05 INFO  library.Init - ***********LAUNCHING EDGE BROWSER***********
+2026-09-28 15:30:08 INFO  library.Init - ***********OPENING URL***********
+2026-09-28 15:30:17 INFO  pages.LoginPage - ****Initiating LoginPage********
+2026-09-28 15:30:18 INFO  tests.LoginTest - ****Initiating loginSuccessTest********
+2026-09-28 15:30:18 INFO  tests.LoginTest - ****Entering Valid Username********
+2026-09-28 15:30:18 INFO  pages.LoginPage - ******Checking Presence of Username Field******
+2026-09-28 15:30:18 INFO  pages.LoginPage - ******Sending Username******
+2026-09-28 15:30:18 INFO  tests.LoginTest - ****Entering Valid Password********
+2026-09-28 15:30:18 INFO  pages.LoginPage - ******Checking Visibility of Password Field******
+2026-09-28 15:30:18 INFO  pages.LoginPage - ******Sending Password******
+2026-09-28 15:30:18 INFO  tests.LoginTest - ****Clicking on Login Button********
+2026-09-28 15:30:18 INFO  pages.LoginPage - ******Checking Clickability of Login Button******
+2026-09-28 15:30:19 INFO  pages.LoginPage - ******Clicking on Login Button******
+2026-09-28 15:30:20 INFO  pages.HomePage - ****Initiating HomePage********
+2026-09-28 15:30:21 INFO  tests.LoginTest - *****Verifying Dashboard********
+2026-09-28 15:30:21 INFO  pages.HomePage - ********Getting Dashboard Element********
+2026-09-28 15:30:21 INFO  pages.HomePage - ********Getting Dashboard Element********
+2026-09-28 15:30:21 INFO  pages.HomePage - ********Getting Dashboard Element********
+2026-09-28 15:30:21 ERROR tests.LoginTest - LoginSuccessTest PASS but was Expected DashBoard and Found Dashboard
+2026-09-28 15:30:21 INFO  tests.LoginTest - ****Initiating logoutSuccessTest********
+2026-09-28 15:30:21 INFO  tests.LoginTest - ****Clicking on UserName********
+2026-09-28 15:30:21 INFO  pages.HomePage - ********Checking Clickability of LoggedInUser********
+2026-09-28 15:30:21 INFO  pages.HomePage - ********Clicking on LoggedInUser Button********
+2026-09-28 15:30:21 INFO  pages.HomePage - ********Checking Visibility of Logout Button********
+2026-09-28 15:30:21 INFO  tests.LoginTest - ****Clicking on LogOut Button********
+2026-09-28 15:30:21 INFO  pages.HomePage - ********Checking Clickability of Logout Button********
+2026-09-28 15:30:22 INFO  tests.LoginTest - LogoutTest PASS
+2026-09-28 15:30:22 INFO  pages.HomePage - ********Getting Dashboard Element********
+2026-09-28 15:30:22 ERROR tests.LoginTest - LogoutTest FAILED: no such element: Unable to locate element: {"method":"xpath","selector":"//h6[normalize-space()='Dashboard']"}
+2026-09-28 15:34:38 INFO  library.Init - ***********LAUNCHING EDGE BROWSER***********
+2026-09-28 15:34:41 INFO  library.Init - ***********OPENING URL***********
+2026-09-28 15:34:48 INFO  pages.LoginPage - ****Initiating LoginPage********
+2026-09-28 15:34:50 INFO  tests.LoginTest - ****Initiating loginSuccessTest********
+2026-09-28 15:34:50 INFO  tests.LoginTest - ****Entering Valid Username********
+2026-09-28 15:34:50 INFO  pages.LoginPage - ******Checking Presence of Username Field******
+2026-09-28 15:34:50 INFO  pages.LoginPage - ******Sending Username******
+2026-09-28 15:34:50 INFO  tests.LoginTest - ****Entering Valid Password********
+2026-09-28 15:34:50 INFO  pages.LoginPage - ******Checking Visibility of Password Field******
+2026-09-28 15:34:50 INFO  pages.LoginPage - ******Sending Password******
+2026-09-28 15:34:50 INFO  tests.LoginTest - ****Clicking on Login Button********
+2026-09-28 15:34:50 INFO  pages.LoginPage - ******Checking Clickability of Login Button******
+2026-09-28 15:34:50 INFO  pages.LoginPage - ******Clicking on Login Button******
+2026-09-28 15:34:52 INFO  pages.HomePage - ****Initiating HomePage********
+2026-09-28 15:34:52 INFO  tests.LoginTest - *****Verifying Dashboard********
+2026-09-28 15:34:52 INFO  pages.HomePage - ********Getting Dashboard Element********
+2026-09-28 15:34:52 INFO  pages.HomePage - ********Getting Dashboard Element********
+2026-09-28 15:34:52 INFO  pages.HomePage - ********Getting Dashboard Element********
+2026-09-28 15:34:53 ERROR tests.LoginTest - LoginSuccessTest PASS but was Expected DashBoard and Found Dashboard
+2026-09-28 15:34:53 INFO  tests.LoginTest - ****Initiating logoutSuccessTest********
+2026-09-28 15:34:53 INFO  tests.LoginTest - ****Clicking on UserName********
+2026-09-28 15:34:53 INFO  pages.HomePage - ********Checking Clickability of LoggedInUser********
+2026-09-28 15:34:53 INFO  pages.HomePage - ********Clicking on LoggedInUser Button********
+2026-09-28 15:34:53 INFO  pages.HomePage - ********Checking Visibility of Logout Button********
+2026-09-28 15:34:54 INFO  tests.LoginTest - ****Clicking on LogOut Button********
+2026-09-28 15:34:54 INFO  pages.HomePage - ********Checking Clickability of Logout Button********
+2026-09-28 15:34:55 INFO  pages.HomePage - ********Getting Dashboard Element********
+2026-09-28 15:34:55 ERROR tests.LoginTest - LogoutTest FAILED: no such element: Unable to locate element: {"method":"xpath","selector":"//h6[normalize-space()='Dashboard']"}
+2026-09-28 15:44:54 INFO  library.Init - ***********LAUNCHING EDGE BROWSER***********
+2026-09-28 15:44:57 INFO  library.Init - ***********OPENING URL***********
+2026-09-28 15:45:03 INFO  pages.LoginPage - ****Initiating LoginPage********
+2026-09-28 15:45:04 INFO  tests.LoginTest - ****Initiating loginSuccessTest********
+2026-09-28 15:45:04 INFO  tests.LoginTest - ****Entering Valid Username********
+2026-09-28 15:45:04 INFO  pages.LoginPage - ******Checking Presence of Username Field******
+2026-09-28 15:45:04 INFO  pages.LoginPage - ******Sending Username******
+2026-09-28 15:45:04 INFO  tests.LoginTest - ****Entering Valid Password********
+2026-09-28 15:45:04 INFO  pages.LoginPage - ******Checking Visibility of Password Field******
+2026-09-28 15:45:04 INFO  pages.LoginPage - ******Sending Password******
+2026-09-28 15:45:04 INFO  tests.LoginTest - ****Clicking on Login Button********
+2026-09-28 15:45:04 INFO  pages.LoginPage - ******Checking Clickability of Login Button******
+2026-09-28 15:45:04 INFO  pages.LoginPage - ******Clicking on Login Button******
+2026-09-28 15:45:06 INFO  pages.HomePage - ****Initiating HomePage********
+2026-09-28 15:45:07 INFO  tests.LoginTest - *****Verifying Dashboard********
+2026-09-28 15:45:07 INFO  pages.HomePage - ********Getting Dashboard Element********
+2026-09-28 15:45:07 INFO  pages.HomePage - ********Getting Dashboard Element********
+2026-09-28 15:45:07 INFO  pages.HomePage - ********Getting Dashboard Element********
+2026-09-28 15:45:07 ERROR tests.LoginTest - LoginSuccessTest PASS but was Expected DashBoard and Found Dashboard
+2026-09-28 15:45:07 INFO  tests.LoginTest - ****Initiating logoutSuccessTest********
+2026-09-28 15:45:07 INFO  tests.LoginTest - ****Clicking on UserName********
+2026-09-28 15:45:07 INFO  pages.HomePage - ********Checking Clickability of LoggedInUser********
+2026-09-28 15:45:07 INFO  pages.HomePage - ********Clicking on LoggedInUser Button********
+2026-09-28 15:45:08 INFO  pages.HomePage - ********Checking Visibility of Logout Button********
+2026-09-28 15:45:08 INFO  tests.LoginTest - ****Clicking on LogOut Button********
+2026-09-28 15:45:08 INFO  pages.HomePage - ********Checking Clickability of Logout Button********
+2026-09-28 15:45:09 INFO  tests.LoginTest - LogoutTest PASS
+2026-09-28 15:45:09 INFO  tests.LoginTest - ***********Verifying Login Page is Displayed after logout********
+2026-09-28 15:45:09 INFO  pages.LoginPage - ******Checking Presence of Username Field******
+2026-09-28 15:45:10 INFO  tests.LoginTest - logOutSuccessTest Pass.
+2026-09-28 15:47:00 INFO  library.Init - ***********LAUNCHING EDGE BROWSER***********
+2026-09-28 15:47:02 INFO  library.Init - ***********OPENING URL***********
+2026-09-28 15:47:08 INFO  pages.LoginPage - ****Initiating LoginPage********
+2026-09-28 15:47:09 INFO  tests.LoginTest - ****Initiating loginSuccessTest********
+2026-09-28 15:47:09 INFO  tests.LoginTest - ****Entering Valid Username********
+2026-09-28 15:47:09 INFO  pages.LoginPage - ******Checking Presence of Username Field******
+2026-09-28 15:47:09 INFO  pages.LoginPage - ******Sending Username******
+2026-09-28 15:47:09 INFO  tests.LoginTest - ****Entering Valid Password********
+2026-09-28 15:47:09 INFO  pages.LoginPage - ******Checking Visibility of Password Field******
+2026-09-28 15:47:09 INFO  pages.LoginPage - ******Sending Password******
+2026-09-28 15:47:09 INFO  tests.LoginTest - ****Clicking on Login Button********
+2026-09-28 15:47:09 INFO  pages.LoginPage - ******Checking Clickability of Login Button******
+2026-09-28 15:47:09 INFO  pages.LoginPage - ******Clicking on Login Button******
+2026-09-28 15:47:09 INFO  pages.HomePage - ****Initiating HomePage********
+2026-09-28 15:47:29 ERROR tests.LoginTest - LoginSuccessTest FAILED: Expected condition failed: waiting for presence of element found by By.xpath: //h6[normalize-space()='Dashboard']
+2026-09-28 15:47:29 INFO  tests.LoginTest - ****Initiating logoutSuccessTest********
+2026-09-28 15:47:29 INFO  tests.LoginTest - ****Clicking on UserName********
+2026-09-28 15:47:29 ERROR tests.LoginTest - LogoutTest FAILED: Cannot invoke "pages.HomePage.loggedInUser()" because "this.home" is null
+2026-09-28 15:59:22 INFO  library.Init - ***********LAUNCHING EDGE BROWSER***********
+2026-09-28 15:59:25 INFO  library.Init - ***********OPENING URL***********
+2026-09-28 15:59:37 INFO  pages.LoginPage - ****Initiating LoginPage********
+2026-09-28 15:59:39 INFO  tests.LoginTest - ****Initiating loginSuccessTest********
+2026-09-28 15:59:39 INFO  tests.LoginTest - ****Entering Valid Username********
+2026-09-28 15:59:39 INFO  pages.LoginPage - ******Checking Presence of Username Field******
+2026-09-28 15:59:39 INFO  pages.LoginPage - ******Sending Username******
+2026-09-28 15:59:40 INFO  tests.LoginTest - ****Entering Valid Password********
+2026-09-28 15:59:40 INFO  pages.LoginPage - ******Checking Visibility of Password Field******
+2026-09-28 15:59:40 INFO  pages.LoginPage - ******Sending Password******
+2026-09-28 15:59:40 INFO  tests.LoginTest - ****Clicking on Login Button********
+2026-09-28 15:59:40 INFO  pages.LoginPage - ******Checking Clickability of Login Button******
+2026-09-28 15:59:40 INFO  pages.LoginPage - ******Clicking on Login Button******
+2026-09-28 15:59:47 INFO  pages.HomePage - ****Initiating HomePage********
+2026-09-28 15:59:51 INFO  tests.LoginTest - *****Verifying Dashboard********
+2026-09-28 15:59:51 INFO  pages.HomePage - ********Getting Dashboard Element********
+2026-09-28 15:59:51 INFO  pages.HomePage - ********Getting Dashboard Element********
+2026-09-28 15:59:51 INFO  pages.HomePage - ********Getting Dashboard Element********
+2026-09-28 15:59:51 ERROR tests.LoginTest - LoginSuccessTest PASS but was Expected DashBoard and Found Dashboard
+2026-09-28 15:59:51 INFO  tests.LoginTest - ****Initiating logoutSuccessTest********
+2026-09-28 15:59:51 INFO  tests.LoginTest - ****Clicking on UserName********
+2026-09-28 15:59:51 INFO  pages.HomePage - ********Checking Clickability of LoggedInUser********
+2026-09-28 15:59:51 INFO  pages.HomePage - ********Clicking on LoggedInUser Button********
+2026-09-28 15:59:51 INFO  pages.HomePage - ********Checking Visibility of Logout Button********
+2026-09-28 15:59:51 INFO  tests.LoginTest - ****Clicking on LogOut Button********
+2026-09-28 15:59:51 INFO  pages.HomePage - ********Checking Clickability of Logout Button********
+2026-09-28 16:00:03 INFO  tests.LoginTest - ***********Verifying Login Page is Displayed after logout********
+2026-09-28 16:00:03 INFO  pages.LoginPage - ******Checking Presence of Username Field******
+2026-09-28 16:00:05 INFO  tests.LoginTest - *******logOutSuccessTest Pass*******
+2026-09-28 16:00:05 INFO  tests.LoginTest - *******Initiating loginFailedTest********
+2026-09-28 16:00:05 INFO  tests.LoginTest - *******Entering Invalid Username********
+2026-09-28 16:00:05 INFO  pages.LoginPage - ******Checking Presence of Username Field******
+2026-09-28 16:00:05 INFO  pages.LoginPage - ******Sending Username******
+2026-09-28 16:00:05 INFO  tests.LoginTest - ****Entering Invalid Password********
+2026-09-28 16:00:05 INFO  pages.LoginPage - ******Checking Visibility of Password Field******
+2026-09-28 16:00:05 INFO  pages.LoginPage - ******Sending Password******
+2026-09-28 16:00:05 INFO  tests.LoginTest - ****Clicking on Login Button********
+2026-09-28 16:00:05 INFO  pages.LoginPage - ******Checking Clickability of Login Button******
+2026-09-28 16:00:05 INFO  pages.LoginPage - ******Clicking on Login Button******
+2026-09-28 16:00:23 INFO  tests.LoginTest - ****Verifying Error Message********
+2026-09-28 16:00:23 INFO  pages.LoginPage - ******Checking Presence of Login Credential Error Message****
+2026-09-28 16:00:44 ERROR tests.LoginTest - LoginFailedTest failed: Expected condition failed: waiting for presence of element found by By.xpath: //p[normalize-space()='Invalid credentials']
+2026-09-28 16:01:44 INFO  library.Init - ***********LAUNCHING EDGE BROWSER***********
+2026-09-28 16:01:47 INFO  library.Init - ***********OPENING URL***********
+2026-09-28 16:01:56 INFO  pages.LoginPage - ****Initiating LoginPage********
+2026-09-28 16:01:56 INFO  tests.LoginTest - ****Initiating loginSuccessTest********
+2026-09-28 16:01:56 INFO  tests.LoginTest - ****Entering Valid Username********
+2026-09-28 16:01:56 INFO  pages.LoginPage - ******Checking Presence of Username Field******
+2026-09-28 16:01:56 INFO  pages.LoginPage - ******Sending Username******
+2026-09-28 16:01:57 INFO  tests.LoginTest - ****Entering Valid Password********
+2026-09-28 16:01:57 INFO  pages.LoginPage - ******Checking Visibility of Password Field******
+2026-09-28 16:01:57 INFO  pages.LoginPage - ******Sending Password******
+2026-09-28 16:01:57 INFO  tests.LoginTest - ****Clicking on Login Button********
+2026-09-28 16:01:57 INFO  pages.LoginPage - ******Checking Clickability of Login Button******
+2026-09-28 16:01:57 INFO  pages.LoginPage - ******Clicking on Login Button******
+2026-09-28 16:02:00 INFO  pages.HomePage - ****Initiating HomePage********
+2026-09-28 16:02:00 INFO  tests.LoginTest - *****Verifying Dashboard********
+2026-09-28 16:02:00 INFO  pages.HomePage - ********Getting Dashboard Element********
+2026-09-28 16:02:00 INFO  pages.HomePage - ********Getting Dashboard Element********
+2026-09-28 16:02:00 INFO  pages.HomePage - ********Getting Dashboard Element********
+2026-09-28 16:02:00 ERROR tests.LoginTest - LoginSuccessTest PASS but was Expected DashBoard and Found Dashboard
+2026-09-28 16:02:00 INFO  tests.LoginTest - ****Initiating logoutSuccessTest********
+2026-09-28 16:02:00 INFO  tests.LoginTest - ****Clicking on UserName********
+2026-09-28 16:02:00 INFO  pages.HomePage - ********Checking Clickability of LoggedInUser********
+2026-09-28 16:02:00 INFO  pages.HomePage - ********Clicking on LoggedInUser Button********
+2026-09-28 16:02:00 INFO  pages.HomePage - ********Checking Visibility of Logout Button********
+2026-09-28 16:02:01 INFO  tests.LoginTest - ****Clicking on LogOut Button********
+2026-09-28 16:02:01 INFO  pages.HomePage - ********Checking Clickability of Logout Button********
+2026-09-28 16:02:03 INFO  tests.LoginTest - ***********Verifying Login Page is Displayed after logout********
+2026-09-28 16:02:03 INFO  pages.LoginPage - ******Checking Presence of Username Field******
+2026-09-28 16:02:03 INFO  tests.LoginTest - *******logOutSuccessTest Pass*******
+2026-09-28 16:02:04 INFO  tests.LoginTest - *******Initiating loginFailedTest********
+2026-09-28 16:02:04 INFO  tests.LoginTest - *******Entering Invalid Username********
+2026-09-28 16:02:04 INFO  pages.LoginPage - ******Checking Presence of Username Field******
+2026-09-28 16:02:04 INFO  pages.LoginPage - ******Sending Username******
+2026-09-28 16:02:04 INFO  tests.LoginTest - ****Entering Invalid Password********
+2026-09-28 16:02:04 INFO  pages.LoginPage - ******Checking Visibility of Password Field******
+2026-09-28 16:02:04 INFO  pages.LoginPage - ******Sending Password******
+2026-09-28 16:02:04 INFO  tests.LoginTest - ****Clicking on Login Button********
+2026-09-28 16:02:04 INFO  pages.LoginPage - ******Checking Clickability of Login Button******
+2026-09-28 16:02:04 INFO  pages.LoginPage - ******Clicking on Login Button******
+2026-09-28 16:02:07 INFO  tests.LoginTest - ****Verifying Error Message********
+2026-09-28 16:02:07 INFO  pages.LoginPage - ******Checking Presence of Login Credential Error Message****
+2026-09-28 16:02:28 ERROR tests.LoginTest - LoginFailedTest failed: Expected condition failed: waiting for presence of element found by By.xpath: //p[normalize-space()='Invalid credentials']
+2026-09-28 16:09:18 INFO  library.Init - ***********LAUNCHING EDGE BROWSER***********
+2026-09-28 16:09:21 INFO  library.Init - ***********OPENING URL***********
+2026-09-28 16:09:28 INFO  pages.LoginPage - ****Initiating LoginPage********
+2026-09-28 16:09:31 INFO  tests.LoginTest - ****Initiating loginSuccessTest********
+2026-09-28 16:09:31 INFO  tests.LoginTest - ****Entering Valid Username********
+2026-09-28 16:09:31 INFO  pages.LoginPage - ******Checking Presence of Username Field******
+2026-09-28 16:09:31 INFO  pages.LoginPage - ******Sending Username******
+2026-09-28 16:09:31 INFO  tests.LoginTest - ****Entering Valid Password********
+2026-09-28 16:09:31 INFO  pages.LoginPage - ******Checking Visibility of Password Field******
+2026-09-28 16:09:31 INFO  pages.LoginPage - ******Sending Password******
+2026-09-28 16:09:31 INFO  tests.LoginTest - ****Clicking on Login Button********
+2026-09-28 16:09:31 INFO  pages.LoginPage - ******Checking Clickability of Login Button******
+2026-09-28 16:09:31 INFO  pages.LoginPage - ******Clicking on Login Button******
+2026-09-28 16:09:40 INFO  pages.HomePage - ****Initiating HomePage********
+2026-09-28 16:09:44 INFO  tests.LoginTest - *****Verifying Dashboard********
+2026-09-28 16:09:44 INFO  pages.HomePage - ********Getting Dashboard Element********
+2026-09-28 16:09:44 INFO  pages.HomePage - ********Getting Dashboard Element********
+2026-09-28 16:09:44 INFO  pages.HomePage - ********Getting Dashboard Element********
+2026-09-28 16:09:44 ERROR tests.LoginTest - LoginSuccessTest PASS but was Expected DashBoard and Found Dashboard
+2026-09-28 16:09:44 INFO  tests.LoginTest - ****Initiating logoutSuccessTest********
+2026-09-28 16:09:44 INFO  tests.LoginTest - ****Clicking on UserName********
+2026-09-28 16:09:44 INFO  pages.HomePage - ********Checking Clickability of LoggedInUser********
+2026-09-28 16:09:44 INFO  pages.HomePage - ********Clicking on LoggedInUser Button********
+2026-09-28 16:09:44 INFO  pages.HomePage - ********Checking Visibility of Logout Button********
+2026-09-28 16:09:44 INFO  tests.LoginTest - ****Clicking on LogOut Button********
+2026-09-28 16:09:44 INFO  pages.HomePage - ********Checking Clickability of Logout Button********
+2026-09-28 16:09:56 INFO  tests.LoginTest - ***********Verifying Login Page is Displayed after logout********
+2026-09-28 16:09:56 INFO  pages.LoginPage - ******Checking Presence of Username Field******
+2026-09-28 16:09:59 INFO  tests.LoginTest - *******logOutSuccessTest Pass*******
+2026-09-28 16:09:59 INFO  tests.LoginTest - *******Initiating loginFailedTest********
+2026-09-28 16:09:59 INFO  tests.LoginTest - *******Entering Invalid Username********
+2026-09-28 16:09:59 INFO  pages.LoginPage - ******Checking Presence of Username Field******
+2026-09-28 16:09:59 INFO  pages.LoginPage - ******Sending Username******
+2026-09-28 16:09:59 INFO  tests.LoginTest - ****Entering Invalid Password********
+2026-09-28 16:09:59 INFO  pages.LoginPage - ******Checking Visibility of Password Field******
+2026-09-28 16:09:59 INFO  pages.LoginPage - ******Sending Password******
+2026-09-28 16:10:00 INFO  tests.LoginTest - ****Clicking on Login Button********
+2026-09-28 16:10:00 INFO  pages.LoginPage - ******Checking Clickability of Login Button******
+2026-09-28 16:10:00 INFO  pages.LoginPage - ******Clicking on Login Button******
+2026-09-28 16:10:06 INFO  tests.LoginTest - ****Verifying Error Message********
+2026-09-28 16:10:06 INFO  pages.LoginPage - ******Checking Presence of Login Credential Error Message****
+2026-09-28 16:10:09 INFO  tests.LoginTest - loginFailedTest Pass
+2026-09-28 16:11:51 INFO  library.Init - ***********LAUNCHING EDGE BROWSER***********
+2026-09-28 16:11:53 INFO  library.Init - ***********OPENING URL***********
+2026-09-28 16:12:31 INFO  pages.LoginPage - ****Initiating LoginPage********
+2026-09-28 16:12:36 INFO  tests.LoginTest - ****Initiating loginSuccessTest********
+2026-09-28 16:12:36 INFO  tests.LoginTest - ****Entering Valid Username********
+2026-09-28 16:12:36 INFO  pages.LoginPage - ******Checking Presence of Username Field******
+2026-09-28 16:12:36 INFO  pages.LoginPage - ******Sending Username******
+2026-09-28 16:12:36 INFO  tests.LoginTest - ****Entering Valid Password********
+2026-09-28 16:12:36 INFO  pages.LoginPage - ******Checking Visibility of Password Field******
+2026-09-28 16:12:37 INFO  pages.LoginPage - ******Sending Password******
+2026-09-28 16:12:37 INFO  tests.LoginTest - ****Clicking on Login Button********
+2026-09-28 16:12:37 INFO  pages.LoginPage - ******Checking Clickability of Login Button******
+2026-09-28 16:12:37 INFO  pages.LoginPage - ******Clicking on Login Button******
+2026-09-28 16:12:44 INFO  pages.HomePage - ****Initiating HomePage********
+2026-09-28 16:12:46 INFO  tests.LoginTest - *****Verifying Dashboard********
+2026-09-28 16:12:46 INFO  pages.HomePage - ********Getting Dashboard Element********
+2026-09-28 16:12:46 INFO  pages.HomePage - ********Getting Dashboard Element********
+2026-09-28 16:12:46 INFO  pages.HomePage - ********Getting Dashboard Element********
+2026-09-28 16:12:46 ERROR tests.LoginTest - LoginSuccessTest PASS but was Expected DashBoard and Found Dashboard
+2026-09-28 16:12:46 INFO  tests.LoginTest - ****Initiating logoutSuccessTest********
+2026-09-28 16:12:46 INFO  tests.LoginTest - ****Clicking on UserName********
+2026-09-28 16:12:46 INFO  pages.HomePage - ********Checking Clickability of LoggedInUser********
+2026-09-28 16:12:46 INFO  pages.HomePage - ********Clicking on LoggedInUser Button********
+2026-09-28 16:12:46 INFO  pages.HomePage - ********Checking Visibility of Logout Button********
+2026-09-28 16:12:46 INFO  tests.LoginTest - ****Clicking on LogOut Button********
+2026-09-28 16:12:46 INFO  pages.HomePage - ********Checking Clickability of Logout Button********
+2026-09-28 16:12:54 INFO  tests.LoginTest - ***********Verifying Login Page is Displayed after logout********
+2026-09-28 16:12:54 INFO  pages.LoginPage - ******Checking Presence of Username Field******
+2026-09-28 16:12:56 INFO  tests.LoginTest - *******logOutSuccessTest Pass*******
+2026-09-28 16:12:56 INFO  tests.LoginTest - *******Initiating loginFailedTest********
+2026-09-28 16:12:56 INFO  tests.LoginTest - *******Entering Invalid Username********
+2026-09-28 16:12:56 INFO  pages.LoginPage - ******Checking Presence of Username Field******
+2026-09-28 16:12:56 INFO  pages.LoginPage - ******Sending Username******
+2026-09-28 16:12:56 INFO  tests.LoginTest - ****Entering Invalid Password********
+2026-09-28 16:12:56 INFO  pages.LoginPage - ******Checking Visibility of Password Field******
+2026-09-28 16:12:56 INFO  pages.LoginPage - ******Sending Password******
+2026-09-28 16:12:57 INFO  tests.LoginTest - ****Clicking on Login Button********
+2026-09-28 16:12:57 INFO  pages.LoginPage - ******Checking Clickability of Login Button******
+2026-09-28 16:12:57 INFO  pages.LoginPage - ******Clicking on Login Button******
+2026-09-28 16:13:06 INFO  tests.LoginTest - ****Verifying Error Message********
+2026-09-28 16:13:06 INFO  pages.LoginPage - ******Checking Presence of Login Credential Error Message****
+2026-09-28 16:13:27 ERROR tests.LoginTest - LoginFailedTest failed: Expected condition failed: waiting for presence of element found by By.xpath: //p[normalize-space()='Invalid credentials']
+2026-09-28 17:26:44 INFO  library.Init - ***********LAUNCHING EDGE BROWSER***********
+2026-09-28 17:26:46 INFO  library.Init - ***********OPENING URL***********
+2026-09-28 17:26:55 INFO  pages.LoginPage - ****Initiating LoginPage********
+2026-09-28 17:26:56 INFO  tests.LoginTest - ****Initiating loginSuccessTest********
+2026-09-28 17:26:56 INFO  tests.LoginTest - ****Entering Valid Username********
+2026-09-28 17:26:56 INFO  pages.LoginPage - ******Checking Presence of Username Field******
+2026-09-28 17:26:56 INFO  pages.LoginPage - ******Sending Username******
+2026-09-28 17:26:57 INFO  tests.LoginTest - ****Entering Valid Password********
+2026-09-28 17:26:57 INFO  pages.LoginPage - ******Checking Visibility of Password Field******
+2026-09-28 17:26:57 INFO  pages.LoginPage - ******Sending Password******
+2026-09-28 17:26:57 INFO  tests.LoginTest - ****Clicking on Login Button********
+2026-09-28 17:26:57 INFO  pages.LoginPage - ******Checking Clickability of Login Button******
+2026-09-28 17:26:57 INFO  pages.LoginPage - ******Clicking on Login Button******
+2026-09-28 17:26:58 INFO  pages.HomePage - ****Initiating HomePage********
+2026-09-28 17:26:59 INFO  tests.LoginTest - *****Verifying Dashboard********
+2026-09-28 17:26:59 INFO  pages.HomePage - ********Getting Dashboard Element********
+2026-09-28 17:26:59 INFO  pages.HomePage - ********Getting Dashboard Element********
+2026-09-28 17:26:59 INFO  pages.HomePage - ********Getting Dashboard Element********
+2026-09-28 17:26:59 ERROR tests.LoginTest - Expected DashBoard and Found Dashboard
+2026-09-28 17:30:02 INFO  library.Init - ***********LAUNCHING EDGE BROWSER***********
+2026-09-28 17:30:03 INFO  library.Init - ***********OPENING URL***********
+2026-09-28 17:30:10 INFO  pages.LoginPage - ****Initiating LoginPage********
+2026-09-28 17:30:11 INFO  tests.LoginTest - ****Initiating loginSuccessTest********
+2026-09-28 17:30:11 INFO  tests.LoginTest - ****Entering Valid Username********
+2026-09-28 17:30:11 INFO  pages.LoginPage - ******Checking Presence of Username Field******
+2026-09-28 17:30:11 INFO  pages.LoginPage - ******Sending Username******
+2026-09-28 17:30:11 INFO  tests.LoginTest - ****Entering Valid Password********
+2026-09-28 17:30:11 INFO  pages.LoginPage - ******Checking Visibility of Password Field******
+2026-09-28 17:30:11 INFO  pages.LoginPage - ******Sending Password******
+2026-09-28 17:30:11 INFO  tests.LoginTest - ****Clicking on Login Button********
+2026-09-28 17:30:11 INFO  pages.LoginPage - ******Checking Clickability of Login Button******
+2026-09-28 17:30:11 INFO  pages.LoginPage - ******Clicking on Login Button******
+2026-09-28 17:30:14 INFO  pages.HomePage - ****Initiating HomePage********
+2026-09-28 17:30:15 INFO  tests.LoginTest - *****Verifying Dashboard********
+2026-09-28 17:30:15 INFO  pages.HomePage - ********Getting Dashboard Element********
+2026-09-28 17:30:15 INFO  pages.HomePage - ********Getting Dashboard Element********
+2026-09-28 17:30:15 INFO  pages.HomePage - ********Getting Dashboard Element********
+2026-09-28 17:30:15 ERROR tests.LoginTest - Expected DashBoard and Found Dashboard
+2026-09-28 17:31:53 INFO  library.Init - ***********LAUNCHING EDGE BROWSER***********
+2026-09-28 17:31:54 INFO  library.Init - ***********OPENING URL***********
+2026-09-28 17:32:02 INFO  pages.LoginPage - ****Initiating LoginPage********
+2026-09-28 17:32:04 INFO  tests.LoginTest - ****Initiating loginSuccessTest********
+2026-09-28 17:32:04 INFO  tests.LoginTest - ****Entering Valid Username********
+2026-09-28 17:32:04 INFO  pages.LoginPage - ******Checking Presence of Username Field******
+2026-09-28 17:32:04 INFO  pages.LoginPage - ******Sending Username******
+2026-09-28 17:32:04 INFO  tests.LoginTest - ****Entering Valid Password********
+2026-09-28 17:32:04 INFO  pages.LoginPage - ******Checking Visibility of Password Field******
+2026-09-28 17:32:04 INFO  pages.LoginPage - ******Sending Password******
+2026-09-28 17:32:04 INFO  tests.LoginTest - ****Clicking on Login Button********
+2026-09-28 17:32:04 INFO  pages.LoginPage - ******Checking Clickability of Login Button******
+2026-09-28 17:32:04 INFO  pages.LoginPage - ******Clicking on Login Button******
+2026-09-28 17:32:05 INFO  pages.HomePage - ****Initiating HomePage********
+2026-09-28 17:32:06 INFO  tests.LoginTest - *****Verifying Dashboard********
+2026-09-28 17:32:06 INFO  pages.HomePage - ********Getting Dashboard Element********
+2026-09-28 17:32:06 INFO  pages.HomePage - ********Getting Dashboard Element********
+2026-09-28 17:32:06 INFO  pages.HomePage - ********Getting Dashboard Element********
+2026-09-28 17:32:06 ERROR tests.LoginTest - Expected DashBoard and Found Dashboard
+2026-09-28 17:32:06 ERROR tests.LoginTest - LoginSuccessTest FAILED: Dashboard text does not match
+2026-09-28 17:32:06 INFO  tests.LoginTest - ****Initiating logoutSuccessTest********
+2026-09-28 17:32:06 INFO  tests.LoginTest - ****Clicking on UserName********
+2026-09-28 17:32:06 INFO  pages.HomePage - ********Checking Clickability of LoggedInUser********
+2026-09-28 17:32:06 INFO  pages.HomePage - ********Clicking on LoggedInUser Button********
+2026-09-28 17:32:06 INFO  pages.HomePage - ********Checking Visibility of Logout Button********
+2026-09-28 17:32:07 INFO  tests.LoginTest - ****Clicking on LogOut Button********
+2026-09-28 17:32:07 INFO  pages.HomePage - ********Checking Clickability of Logout Button********
+2026-09-28 17:32:08 INFO  tests.LoginTest - ***********Verifying Login Page is Displayed after logout********
+2026-09-28 17:32:08 INFO  pages.LoginPage - ******Checking Presence of Username Field******
+2026-09-28 17:32:09 INFO  tests.LoginTest - *******logOutSuccessTest Pass*******
+2026-09-28 17:32:09 INFO  tests.LoginTest - *******Initiating loginFailedTest********
+2026-09-28 17:32:09 INFO  tests.LoginTest - *******Entering Invalid Username********
+2026-09-28 17:32:09 INFO  pages.LoginPage - ******Checking Presence of Username Field******
+2026-09-28 17:32:09 INFO  pages.LoginPage - ******Sending Username******
+2026-09-28 17:32:09 INFO  tests.LoginTest - ****Entering Invalid Password********
+2026-09-28 17:32:09 INFO  pages.LoginPage - ******Checking Visibility of Password Field******
+2026-09-28 17:32:09 INFO  pages.LoginPage - ******Sending Password******
+2026-09-28 17:32:09 INFO  tests.LoginTest - ****Clicking on Login Button********
+2026-09-28 17:32:09 INFO  pages.LoginPage - ******Checking Clickability of Login Button******
+2026-09-28 17:32:09 INFO  pages.LoginPage - ******Clicking on Login Button******
+2026-09-28 17:32:10 INFO  tests.LoginTest - ****Verifying Error Message********
+2026-09-28 17:32:10 INFO  pages.LoginPage - ******Checking Presence of Login Credential Error Message****
+2026-09-28 17:32:11 INFO  tests.LoginTest - loginFailedTest Pass
+2026-09-28 17:32:20 INFO  library.Init - ***********LAUNCHING EDGE BROWSER***********
+2026-09-28 17:32:21 INFO  library.Init - ***********OPENING URL***********
+2026-09-28 17:32:28 INFO  pages.LoginPage - ****Initiating LoginPage********
+2026-09-28 17:32:30 INFO  tests.LoginTest - ****Initiating loginSuccessTest********
+2026-09-28 17:32:30 INFO  tests.LoginTest - ****Entering Valid Username********
+2026-09-28 17:32:30 INFO  pages.LoginPage - ******Checking Presence of Username Field******
+2026-09-28 17:32:30 INFO  pages.LoginPage - ******Sending Username******
+2026-09-28 17:32:30 INFO  tests.LoginTest - ****Entering Valid Password********
+2026-09-28 17:32:30 INFO  pages.LoginPage - ******Checking Visibility of Password Field******
+2026-09-28 17:32:30 INFO  pages.LoginPage - ******Sending Password******
+2026-09-28 17:32:30 INFO  tests.LoginTest - ****Clicking on Login Button********
+2026-09-28 17:32:30 INFO  pages.LoginPage - ******Checking Clickability of Login Button******
+2026-09-28 17:32:30 INFO  pages.LoginPage - ******Clicking on Login Button******
+2026-09-28 17:32:32 INFO  pages.HomePage - ****Initiating HomePage********
+2026-09-28 17:32:52 ERROR tests.LoginTest - LoginSuccessTest FAILED: Expected condition failed: waiting for presence of element found by By.xpath: //h6[normalize-space()='Dashboard']
+2026-09-28 17:32:52 INFO  tests.LoginTest - ****Initiating logoutSuccessTest********
+2026-09-28 17:32:52 INFO  tests.LoginTest - ****Clicking on UserName********
+2026-09-28 17:32:53 ERROR tests.LoginTest - LogoutTest FAILED: Cannot invoke "pages.HomePage.loggedInUser()" because "this.home" is null
+2026-09-28 17:32:53 INFO  tests.LoginTest - *******Initiating loginFailedTest********
+2026-09-28 17:32:53 INFO  tests.LoginTest - *******Entering Invalid Username********
+2026-09-28 17:32:53 INFO  pages.LoginPage - ******Checking Presence of Username Field******
+2026-09-28 17:32:53 INFO  pages.LoginPage - ******Sending Username******
+2026-09-28 17:32:53 INFO  tests.LoginTest - ****Entering Invalid Password********
+2026-09-28 17:32:53 INFO  pages.LoginPage - ******Checking Visibility of Password Field******
+2026-09-28 17:32:53 INFO  pages.LoginPage - ******Sending Password******
+2026-09-28 17:32:53 INFO  tests.LoginTest - ****Clicking on Login Button********
+2026-09-28 17:32:53 INFO  pages.LoginPage - ******Checking Clickability of Login Button******
+2026-09-28 17:32:53 INFO  pages.LoginPage - ******Clicking on Login Button******
+2026-09-28 17:32:53 INFO  tests.LoginTest - ****Verifying Error Message********
+2026-09-28 17:32:53 INFO  pages.LoginPage - ******Checking Presence of Login Credential Error Message****
+2026-09-28 17:32:54 INFO  tests.LoginTest - loginFailedTest Pass
+2026-09-28 17:35:36 INFO  library.Init - ***********LAUNCHING EDGE BROWSER***********
+2026-09-28 17:35:37 INFO  library.Init - ***********OPENING URL***********
+2026-09-28 17:35:52 INFO  pages.LoginPage - ****Initiating LoginPage********
+2026-09-28 17:35:53 INFO  tests.LoginTest - ****Initiating loginSuccessTest********
+2026-09-28 17:35:53 INFO  tests.LoginTest - ****Entering Valid Username********
+2026-09-28 17:35:53 INFO  pages.LoginPage - ******Checking Presence of Username Field******
+2026-09-28 17:35:53 INFO  pages.LoginPage - ******Sending Username******
+2026-09-28 17:35:53 INFO  tests.LoginTest - ****Entering Valid Password********
+2026-09-28 17:35:53 INFO  pages.LoginPage - ******Checking Visibility of Password Field******
+2026-09-28 17:35:53 INFO  pages.LoginPage - ******Sending Password******
+2026-09-28 17:35:53 INFO  tests.LoginTest - ****Clicking on Login Button********
+2026-09-28 17:35:53 INFO  pages.LoginPage - ******Checking Clickability of Login Button******
+2026-09-28 17:35:53 INFO  pages.LoginPage - ******Clicking on Login Button******
+2026-09-28 17:35:55 INFO  pages.HomePage - ****Initiating HomePage********
+2026-09-28 17:36:15 ERROR tests.LoginTest - LoginSuccessTest FAILED: Expected condition failed: waiting for presence of element found by By.xpath: //h6[normalize-space()='Dashboard']
+2026-09-28 17:36:15 INFO  tests.LoginTest - ****Initiating logoutSuccessTest********
+2026-09-28 17:36:15 INFO  tests.LoginTest - ****Clicking on UserName********
+2026-09-28 17:36:15 ERROR tests.LoginTest - LogoutTest FAILED: Cannot invoke "pages.HomePage.loggedInUser()" because "this.home" is null
+2026-09-28 17:36:15 INFO  tests.LoginTest - *******Initiating loginFailedTest********
+2026-09-28 17:36:15 INFO  tests.LoginTest - *******Entering Invalid Username********
+2026-09-28 17:36:15 INFO  pages.LoginPage - ******Checking Presence of Username Field******
+2026-09-28 17:36:15 INFO  pages.LoginPage - ******Sending Username******
+2026-09-28 17:36:15 INFO  tests.LoginTest - ****Entering Invalid Password********
+2026-09-28 17:36:15 INFO  pages.LoginPage - ******Checking Visibility of Password Field******
+2026-09-28 17:36:15 INFO  pages.LoginPage - ******Sending Password******
+2026-09-28 17:36:15 INFO  tests.LoginTest - ****Clicking on Login Button********
+2026-09-28 17:36:15 INFO  pages.LoginPage - ******Checking Clickability of Login Button******
+2026-09-28 17:36:16 INFO  pages.LoginPage - ******Clicking on Login Button******
+2026-09-28 17:36:17 INFO  tests.LoginTest - ****Verifying Error Message********
+2026-09-28 17:36:17 INFO  pages.LoginPage - ******Checking Presence of Login Credential Error Message****
+2026-09-28 17:36:17 INFO  tests.LoginTest - loginFailedTest Pass
+2026-09-28 18:30:32 INFO  library.Init - ***********LAUNCHING EDGE BROWSER***********
+2026-09-28 18:30:35 INFO  library.Init - ***********OPENING URL***********
+2026-09-28 18:30:45 INFO  pages.LoginPage - ****Initiating LoginPage********
+2026-09-28 18:30:46 INFO  tests.MyInfoFormTest - ********Enetering Username*********
+2026-09-28 18:30:46 INFO  pages.LoginPage - ******Checking Presence of Username Field******
+2026-09-28 18:30:47 INFO  pages.LoginPage - ******Sending Username******
+2026-09-28 18:30:47 INFO  tests.MyInfoFormTest - ********Enetering Password*********
+2026-09-28 18:30:47 INFO  pages.LoginPage - ******Checking Visibility of Password Field******
+2026-09-28 18:30:47 INFO  pages.LoginPage - ******Sending Password******
+2026-09-28 18:30:47 INFO  tests.MyInfoFormTest - ********Clicking on Login Button*********
+2026-09-28 18:30:47 INFO  pages.LoginPage - ******Checking Clickability of Login Button******
+2026-09-28 18:30:47 INFO  pages.LoginPage - ******Clicking on Login Button******
+2026-09-28 18:30:49 INFO  tests.MyInfoFormTest - ********Initiating Homepage*********
+2026-09-28 18:30:49 INFO  pages.HomePage - ****Initiating HomePage********
+2026-09-28 18:30:50 INFO  tests.MyInfoFormTest - ********Finding dashboard*********
+2026-09-28 18:30:50 INFO  pages.HomePage - ********Getting Dashboard Element********
+2026-09-28 18:30:50 INFO  tests.MyInfoFormTest - ********Clicking on MyInfo Button*********
+2026-09-28 18:30:50 INFO  pages.HomePage - ********Checking Clickability of MyInfo Button********
+2026-09-28 18:30:50 INFO  pages.HomePage - *******Clicking on MyInfo Button********
+2026-09-28 18:30:51 INFO  tests.MyInfoFormTest - ********Initiating MyInfo Page*********
+2026-09-28 18:30:53 INFO  tests.MyInfoFormTest - ********Enetering First Name*********
+2026-09-28 18:30:53 INFO  pages.MyInfoPage - **********Checking Presence for First Name Field*************
+2026-09-28 18:30:53 INFO  pages.MyInfoPage - **********Checking Visibility of First Name Field*************
+2026-09-28 18:30:53 INFO  pages.MyInfoPage - **********Clicking Inside First Name Field*************
+2026-09-28 18:30:53 INFO  pages.MyInfoPage - **********Selecting Previous First Name*************
+2026-09-28 18:30:53 INFO  pages.MyInfoPage - **********Overwriting First Name*************
+2026-09-28 18:30:54 INFO  tests.MyInfoFormTest - ********Enetering Middle Name*********
+2026-09-28 18:30:54 INFO  pages.MyInfoPage - **********Checking Visibility of Middle Name Field*************
+2026-09-28 18:30:54 INFO  pages.MyInfoPage - **********Selecting Previous Middle Name*************
+2026-09-28 18:30:54 INFO  pages.MyInfoPage - **********Overwriting Middle Name*************
+2026-09-28 18:30:54 INFO  tests.MyInfoFormTest - ********Enetering last Name*********
+2026-09-28 18:30:54 INFO  pages.MyInfoPage - **********Checking Visibility of Last Name Field*************
+2026-09-28 18:30:54 INFO  pages.MyInfoPage - **********Selecting Previous Last Name*************
+2026-09-28 18:30:54 INFO  pages.MyInfoPage - **********Overwriting Last Name*************
+2026-09-28 18:30:54 INFO  tests.MyInfoFormTest - ********Enetering Employee ID*********
+2026-09-28 18:30:54 INFO  pages.MyInfoPage - **********Checking Visibility of Employee ID Field*************
+2026-09-28 18:30:54 INFO  pages.MyInfoPage - **********Selecting Previous Employee ID*************
+2026-09-28 18:30:54 INFO  pages.MyInfoPage - **********Overwriting Employee ID*************
+2026-09-28 18:30:54 INFO  tests.MyInfoFormTest - ********Enetering Driving License Number*********
+2026-09-28 18:30:54 INFO  pages.MyInfoPage - **********Checking Visibility of Driving License Number Field*************
+2026-09-28 18:30:54 INFO  pages.MyInfoPage - **********Selecting Previous Driving License Number*************
+2026-09-28 18:30:55 INFO  pages.MyInfoPage - **********Overwriting Driving License Number*************
+2026-09-28 18:30:55 INFO  tests.MyInfoFormTest - ********Enetering Driving License Expiry Date*********
+2026-09-28 18:30:55 INFO  pages.MyInfoPage - **********Checking Clickability of License Expiry Field*************
+2026-09-28 18:30:55 INFO  pages.MyInfoPage - **********Clicking on License Expiry Field*************
+2026-09-28 18:30:55 INFO  pages.MyInfoPage - ***********Checking Visibility of License Expiry Year Locator************
+2026-09-28 18:30:55 INFO  pages.MyInfoPage - ***********Checking Clickability of License Expiry Year************
+2026-09-28 18:30:55 INFO  pages.MyInfoPage - ***********Checking Visibility of Next Year Button Locator************
+2026-09-28 18:30:55 INFO  pages.MyInfoPage - ***********Checking Clickability of Next Year Button************
+2026-09-28 18:30:55 INFO  pages.MyInfoPage - ***********Clicking on The Desired Year************
+2026-09-28 18:30:55 INFO  pages.MyInfoPage - ***********Checking Visibility of Month Text locator************
+2026-09-28 18:30:55 INFO  pages.MyInfoPage - ***********Checking Clickability of Month************
+2026-09-28 18:30:55 INFO  pages.MyInfoPage - ***********Clicking on Month************
+2026-09-28 18:30:56 INFO  pages.MyInfoPage - ***********Checking Visbility of Month Dropdown Locator************
+2026-09-28 18:30:56 INFO  pages.MyInfoPage - ***********Reading all the Month in the Dropdown************
+2026-09-28 18:30:57 INFO  pages.MyInfoPage - ***********Clicking on The Desired Month************
+2026-09-28 18:30:57 INFO  pages.MyInfoPage - ***********Checking Visibility of Date Locator************
+2026-09-28 18:30:57 INFO  pages.MyInfoPage - ***********Reading all the Date in the Date Grid************
+2026-09-28 18:30:58 INFO  pages.MyInfoPage - ***********Clicking on The Desired Date************
+2026-09-28 18:30:58 INFO  tests.MyInfoFormTest - ********Enetering Nationality*********
+2026-09-28 18:30:58 INFO  pages.MyInfoPage - **********Checking Clickability of Nationality Field*************
+2026-09-28 18:30:58 INFO  pages.MyInfoPage - **********Scrolling to Nationality Field*************
+2026-09-28 18:30:58 INFO  pages.MyInfoPage - ***********Clicking on Nationality Field************
+2026-09-28 18:30:58 INFO  pages.MyInfoPage - ***********Checking Visibility of Nationality Dropdown************
+2026-09-28 18:30:59 INFO  pages.MyInfoPage - ***********Reading all the Elements in Nationality Dropdown************
+2026-09-28 18:31:04 INFO  pages.MyInfoPage - ***********Clicking on The Desired Nationality************
+2026-09-28 18:31:04 INFO  tests.MyInfoFormTest - ********Enetering Marital Status*********
+2026-09-28 18:31:04 INFO  pages.MyInfoPage - **********Checking Clickability of Marital Status Field*************
+2026-09-28 18:31:04 INFO  pages.MyInfoPage - ***********Clicking on Marital Status Field************
+2026-09-28 18:31:04 INFO  pages.MyInfoPage - ***********Checking Visibility of Marital Status Dropdown************
+2026-09-28 18:31:04 INFO  pages.MyInfoPage - ***********Reading all the Elements in Marital Status Dropdown************
+2026-09-28 18:31:04 INFO  pages.MyInfoPage - ***********Clicking on Desired Marital Status************
+2026-09-28 18:31:04 INFO  tests.MyInfoFormTest - ********Selecting Gender*********
+2026-09-28 18:31:04 INFO  pages.MyInfoPage - ***********Checking Visibility of Male Button************
+2026-09-28 18:31:04 INFO  pages.MyInfoPage - ***********Clicking on The Desired Gender************
+2026-09-28 18:31:04 INFO  tests.MyInfoFormTest - ********Enetering Date of Birth*********
+2026-09-28 18:31:04 INFO  pages.MyInfoPage - **********Checking Clickability of Date of Birth Field*************
+2026-09-28 18:31:04 INFO  pages.MyInfoPage - **********Clicking on Date of Birth Field*************
+2026-09-28 18:31:04 INFO  pages.MyInfoPage - ***********Checking Visibility of Birth Year************
+2026-09-28 18:31:05 INFO  pages.MyInfoPage - ***********Checking Clickability of Before Birth Year Button************
+2026-09-28 18:31:05 INFO  pages.MyInfoPage - ***********Checking Clickability of Next Birth Year Button************
+2026-09-28 18:31:05 INFO  pages.MyInfoPage - ***********Clicking on The Desired Year************
+2026-09-28 18:31:11 ERROR tests.MyInfoFormTest - infoForm Test case Failed stale element reference: stale element not found in the current frame
+2026-09-28 18:32:54 INFO  library.Init - ***********LAUNCHING EDGE BROWSER***********
+2026-09-28 18:32:57 INFO  library.Init - ***********OPENING URL***********
+2026-09-28 18:33:06 INFO  pages.LoginPage - ****Initiating LoginPage********
+2026-09-28 18:33:07 INFO  tests.MyInfoFormTest - ********Enetering Username*********
+2026-09-28 18:33:07 INFO  pages.LoginPage - ******Checking Presence of Username Field******
+2026-09-28 18:33:07 INFO  pages.LoginPage - ******Sending Username******
+2026-09-28 18:33:07 INFO  tests.MyInfoFormTest - ********Enetering Password*********
+2026-09-28 18:33:07 INFO  pages.LoginPage - ******Checking Visibility of Password Field******
+2026-09-28 18:33:07 INFO  pages.LoginPage - ******Sending Password******
+2026-09-28 18:33:07 INFO  tests.MyInfoFormTest - ********Clicking on Login Button*********
+2026-09-28 18:33:07 INFO  pages.LoginPage - ******Checking Clickability of Login Button******
+2026-09-28 18:33:07 INFO  pages.LoginPage - ******Clicking on Login Button******
+2026-09-28 18:33:09 INFO  tests.MyInfoFormTest - ********Initiating Homepage*********
+2026-09-28 18:33:09 INFO  pages.HomePage - ****Initiating HomePage********
+2026-09-28 18:33:10 INFO  tests.MyInfoFormTest - ********Finding dashboard*********
+2026-09-28 18:33:10 INFO  pages.HomePage - ********Getting Dashboard Element********
+2026-09-28 18:33:10 INFO  tests.MyInfoFormTest - ********Clicking on MyInfo Button*********
+2026-09-28 18:33:10 INFO  pages.HomePage - ********Checking Clickability of MyInfo Button********
+2026-09-28 18:33:10 INFO  pages.HomePage - *******Clicking on MyInfo Button********
+2026-09-28 18:33:11 INFO  tests.MyInfoFormTest - ********Initiating MyInfo Page*********
+2026-09-28 18:33:13 INFO  tests.MyInfoFormTest - ********Enetering First Name*********
+2026-09-28 18:33:13 INFO  pages.MyInfoPage - **********Checking Presence for First Name Field*************
+2026-09-28 18:33:13 INFO  pages.MyInfoPage - **********Checking Visibility of First Name Field*************
+2026-09-28 18:33:13 INFO  pages.MyInfoPage - **********Clicking Inside First Name Field*************
+2026-09-28 18:33:14 INFO  pages.MyInfoPage - **********Selecting Previous First Name*************
+2026-09-28 18:33:14 INFO  pages.MyInfoPage - **********Overwriting First Name*************
+2026-09-28 18:33:14 INFO  tests.MyInfoFormTest - ********Enetering Middle Name*********
+2026-09-28 18:33:14 INFO  pages.MyInfoPage - **********Checking Visibility of Middle Name Field*************
+2026-09-28 18:33:14 INFO  pages.MyInfoPage - **********Selecting Previous Middle Name*************
+2026-09-28 18:33:14 INFO  pages.MyInfoPage - **********Overwriting Middle Name*************
+2026-09-28 18:33:14 INFO  tests.MyInfoFormTest - ********Enetering last Name*********
+2026-09-28 18:33:14 INFO  pages.MyInfoPage - **********Checking Visibility of Last Name Field*************
+2026-09-28 18:33:14 INFO  pages.MyInfoPage - **********Selecting Previous Last Name*************
+2026-09-28 18:33:15 INFO  pages.MyInfoPage - **********Overwriting Last Name*************
+2026-09-28 18:33:15 INFO  tests.MyInfoFormTest - ********Enetering Employee ID*********
+2026-09-28 18:33:15 INFO  pages.MyInfoPage - **********Checking Visibility of Employee ID Field*************
+2026-09-28 18:33:15 INFO  pages.MyInfoPage - **********Selecting Previous Employee ID*************
+2026-09-28 18:33:15 INFO  pages.MyInfoPage - **********Overwriting Employee ID*************
+2026-09-28 18:33:15 INFO  tests.MyInfoFormTest - ********Enetering Driving License Number*********
+2026-09-28 18:33:15 INFO  pages.MyInfoPage - **********Checking Visibility of Driving License Number Field*************
+2026-09-28 18:33:15 INFO  pages.MyInfoPage - **********Selecting Previous Driving License Number*************
+2026-09-28 18:33:15 INFO  pages.MyInfoPage - **********Overwriting Driving License Number*************
+2026-09-28 18:33:15 INFO  tests.MyInfoFormTest - ********Enetering Driving License Expiry Date*********
+2026-09-28 18:33:15 INFO  pages.MyInfoPage - **********Checking Clickability of License Expiry Field*************
+2026-09-28 18:33:15 INFO  pages.MyInfoPage - **********Clicking on License Expiry Field*************
+2026-09-28 18:33:16 INFO  pages.MyInfoPage - ***********Checking Visibility of License Expiry Year Locator************
+2026-09-28 18:33:16 INFO  pages.MyInfoPage - ***********Checking Clickability of License Expiry Year************
+2026-09-28 18:33:16 INFO  pages.MyInfoPage - ***********Checking Visibility of Next Year Button Locator************
+2026-09-28 18:33:16 INFO  pages.MyInfoPage - ***********Checking Clickability of Next Year Button************
+2026-09-28 18:33:16 INFO  pages.MyInfoPage - ***********Clicking on The Desired Year************
+2026-09-28 18:33:16 INFO  pages.MyInfoPage - ***********Checking Visibility of Month Text locator************
+2026-09-28 18:33:16 INFO  pages.MyInfoPage - ***********Checking Clickability of Month************
+2026-09-28 18:33:16 INFO  pages.MyInfoPage - ***********Clicking on Month************
+2026-09-28 18:33:16 INFO  pages.MyInfoPage - ***********Checking Visbility of Month Dropdown Locator************
+2026-09-28 18:33:17 INFO  pages.MyInfoPage - ***********Reading all the Month in the Dropdown************
+2026-09-28 18:33:18 INFO  pages.MyInfoPage - ***********Clicking on The Desired Month************
+2026-09-28 18:33:18 INFO  pages.MyInfoPage - ***********Checking Visibility of Date Locator************
+2026-09-28 18:33:18 INFO  pages.MyInfoPage - ***********Reading all the Date in the Date Grid************
+2026-09-28 18:33:19 INFO  pages.MyInfoPage - ***********Clicking on The Desired Date************
+2026-09-28 18:33:19 INFO  tests.MyInfoFormTest - ********Enetering Nationality*********
+2026-09-28 18:33:19 INFO  pages.MyInfoPage - **********Checking Clickability of Nationality Field*************
+2026-09-28 18:33:19 INFO  pages.MyInfoPage - **********Scrolling to Nationality Field*************
+2026-09-28 18:33:19 INFO  pages.MyInfoPage - ***********Clicking on Nationality Field************
+2026-09-28 18:33:19 INFO  pages.MyInfoPage - ***********Checking Visibility of Nationality Dropdown************
+2026-09-28 18:33:19 INFO  pages.MyInfoPage - ***********Reading all the Elements in Nationality Dropdown************
+2026-09-28 18:33:25 INFO  pages.MyInfoPage - ***********Clicking on The Desired Nationality************
+2026-09-28 18:33:25 INFO  tests.MyInfoFormTest - ********Enetering Marital Status*********
+2026-09-28 18:33:25 INFO  pages.MyInfoPage - **********Checking Clickability of Marital Status Field*************
+2026-09-28 18:33:25 INFO  pages.MyInfoPage - ***********Clicking on Marital Status Field************
+2026-09-28 18:33:25 INFO  pages.MyInfoPage - ***********Checking Visibility of Marital Status Dropdown************
+2026-09-28 18:33:25 INFO  pages.MyInfoPage - ***********Reading all the Elements in Marital Status Dropdown************
+2026-09-28 18:33:25 INFO  pages.MyInfoPage - ***********Clicking on Desired Marital Status************
+2026-09-28 18:33:25 INFO  tests.MyInfoFormTest - ********Selecting Gender*********
+2026-09-28 18:33:25 INFO  pages.MyInfoPage - ***********Checking Visibility of Male Button************
+2026-09-28 18:33:26 INFO  pages.MyInfoPage - ***********Clicking on The Desired Gender************
+2026-09-28 18:33:26 INFO  tests.MyInfoFormTest - ********Enetering Date of Birth*********
+2026-09-28 18:33:26 INFO  pages.MyInfoPage - **********Checking Clickability of Date of Birth Field*************
+2026-09-28 18:33:26 INFO  pages.MyInfoPage - **********Clicking on Date of Birth Field*************
+2026-09-28 18:33:26 INFO  pages.MyInfoPage - ***********Checking Visibility of Birth Year************
+2026-09-28 18:33:26 INFO  pages.MyInfoPage - ***********Checking Clickability of Before Birth Year Button************
+2026-09-28 18:33:26 INFO  pages.MyInfoPage - ***********Checking Clickability of Next Birth Year Button************
+2026-09-28 18:33:26 INFO  pages.MyInfoPage - ***********Clicking on The Desired Year************
+2026-09-28 18:33:54 INFO  pages.MyInfoPage - ***********Checking Clickability of Birth Month Button************
+2026-09-28 18:33:54 INFO  pages.MyInfoPage - ***********Clicking on Birth Month Button************
+2026-09-28 18:33:55 INFO  pages.MyInfoPage - ***********Checking Visibility of Month Dropdown************
+2026-09-28 18:33:55 INFO  pages.MyInfoPage - ***********Reading all the Elements in Month Dropdown************
+2026-09-28 18:33:55 INFO  pages.MyInfoPage - ***********Clicking on The Desired Month************
+2026-09-28 18:33:56 INFO  pages.MyInfoPage - ***********Checking Checking Visibility of Birth Date Grid************
+2026-09-28 18:33:56 INFO  pages.MyInfoPage - ***********Reading All the dates in the Grid.************
+2026-09-28 18:33:57 INFO  pages.MyInfoPage - ***********Clicking on The Desired Date************
+2026-09-28 18:33:57 INFO  tests.MyInfoFormTest - ********Enetering Blood Type*********
+2026-09-28 18:33:57 INFO  pages.MyInfoPage - ***********Checking Clickability of Blood Type Field************
+2026-09-28 18:33:57 INFO  pages.MyInfoPage - ***********Clicking on Blood Type Field ************
+2026-09-28 18:33:57 INFO  pages.MyInfoPage - ***********Checking Clickability of Blood Type DropDown************
+2026-09-28 18:33:57 INFO  pages.MyInfoPage - ***********Checking Visibility Of all Blood types in Dropdown************
+2026-09-28 18:33:58 INFO  pages.MyInfoPage - ***********Clicking on The Desired Blood Type************
+2026-09-28 18:33:58 INFO  tests.MyInfoFormTest - ********Enetering Test*********
+2026-09-28 18:33:58 INFO  pages.MyInfoPage - ***********Checking Visibility of Test Field************
+2026-09-28 18:33:58 INFO  pages.MyInfoPage - ***********Selecting Previous Test************
+2026-09-28 18:33:58 INFO  pages.MyInfoPage - ***********Overwriting Test************
+2026-09-28 18:33:58 INFO  tests.MyInfoFormTest - ********Adding Attachment*********
+2026-09-28 18:33:58 INFO  pages.MyInfoPage - ***********Clicking on the Add Attachment Button************
+2026-09-28 18:33:58 INFO  pages.MyInfoPage - ***********Checking Presence of FIle Attachment************
+2026-09-28 18:33:58 INFO  pages.MyInfoPage - ***********Sending File Path************
+2026-09-28 18:33:58 INFO  pages.MyInfoPage - ***********Checking Visibility of Save Button************
+2026-09-28 18:33:58 INFO  pages.MyInfoPage - ***********Clicking on Save Button************
+2026-09-28 18:33:58 INFO  tests.MyInfoFormTest - ********Validating Upload*********
+2026-09-28 18:34:02 INFO  tests.MyInfoFormTest - Pass
+2026-09-28 20:07:43 INFO  library.Init - ***********LAUNCHING EDGE BROWSER***********
+2026-09-28 20:07:47 INFO  library.Init - ***********OPENING URL***********
+2026-09-28 20:07:55 INFO  pages.LoginPage - ****Initiating LoginPage********
+2026-09-28 20:07:56 INFO  tests.MyInfoFormTest - ********Enetering Username*********
+2026-09-28 20:07:56 INFO  pages.LoginPage - ******Checking Presence of Username Field******
+2026-09-28 20:07:56 INFO  pages.LoginPage - ******Sending Username******
+2026-09-28 20:07:56 INFO  tests.MyInfoFormTest - ********Enetering Password*********
+2026-09-28 20:07:56 INFO  pages.LoginPage - ******Checking Visibility of Password Field******
+2026-09-28 20:07:56 INFO  pages.LoginPage - ******Sending Password******
+2026-09-28 20:07:57 INFO  tests.MyInfoFormTest - ********Clicking on Login Button*********
+2026-09-28 20:07:57 INFO  pages.LoginPage - ******Checking Clickability of Login Button******
+2026-09-28 20:07:57 INFO  pages.LoginPage - ******Clicking on Login Button******
+2026-09-28 20:07:59 INFO  tests.MyInfoFormTest - ********Initiating Homepage*********
+2026-09-28 20:07:59 INFO  pages.HomePage - ****Initiating HomePage********
+2026-09-28 20:08:00 INFO  tests.MyInfoFormTest - ********Finding dashboard*********
+2026-09-28 20:08:00 INFO  pages.HomePage - ********Getting Dashboard Element********
+2026-09-28 20:08:00 INFO  tests.MyInfoFormTest - ********Clicking on MyInfo Button*********
+2026-09-28 20:08:00 INFO  pages.HomePage - ********Checking Clickability of MyInfo Button********
+2026-09-28 20:08:00 INFO  pages.HomePage - *******Clicking on MyInfo Button********
+2026-09-28 20:08:02 INFO  tests.MyInfoFormTest - ********Initiating MyInfo Page*********
+2026-09-28 20:08:03 INFO  tests.MyInfoFormTest - ********Enetering First Name*********
+2026-09-28 20:08:03 INFO  pages.MyInfoPage - **********Checking Presence for First Name Field*************
+2026-09-28 20:08:03 INFO  pages.MyInfoPage - **********Checking Visibility of First Name Field*************
+2026-09-28 20:08:03 INFO  pages.MyInfoPage - **********Clicking Inside First Name Field*************
+2026-09-28 20:08:03 INFO  pages.MyInfoPage - **********Selecting Previous First Name*************
+2026-09-28 20:08:03 INFO  pages.MyInfoPage - **********Overwriting First Name*************
+2026-09-28 20:08:03 INFO  tests.MyInfoFormTest - ********Enetering Middle Name*********
+2026-09-28 20:08:03 INFO  pages.MyInfoPage - **********Checking Visibility of Middle Name Field*************
+2026-09-28 20:08:03 INFO  pages.MyInfoPage - **********Selecting Previous Middle Name*************
+2026-09-28 20:08:03 INFO  pages.MyInfoPage - **********Overwriting Middle Name*************
+2026-09-28 20:08:04 INFO  tests.MyInfoFormTest - ********Enetering last Name*********
+2026-09-28 20:08:04 INFO  pages.MyInfoPage - **********Checking Visibility of Last Name Field*************
+2026-09-28 20:08:04 INFO  pages.MyInfoPage - **********Selecting Previous Last Name*************
+2026-09-28 20:08:04 INFO  pages.MyInfoPage - **********Overwriting Last Name*************
+2026-09-28 20:08:04 INFO  tests.MyInfoFormTest - ********Enetering Employee ID*********
+2026-09-28 20:08:04 INFO  pages.MyInfoPage - **********Checking Visibility of Employee ID Field*************
+2026-09-28 20:08:04 INFO  pages.MyInfoPage - **********Selecting Previous Employee ID*************
+2026-09-28 20:08:04 INFO  pages.MyInfoPage - **********Overwriting Employee ID*************
+2026-09-28 20:08:04 INFO  tests.MyInfoFormTest - ********Enetering Driving License Number*********
+2026-09-28 20:08:04 INFO  pages.MyInfoPage - **********Checking Visibility of Driving License Number Field*************
+2026-09-28 20:08:04 INFO  pages.MyInfoPage - **********Selecting Previous Driving License Number*************
+2026-09-28 20:08:04 INFO  pages.MyInfoPage - **********Overwriting Driving License Number*************
+2026-09-28 20:08:04 INFO  tests.MyInfoFormTest - ********Enetering Driving License Expiry Date*********
+2026-09-28 20:08:04 INFO  pages.MyInfoPage - **********Checking Clickability of License Expiry Field*************
+2026-09-28 20:08:04 INFO  pages.MyInfoPage - **********Clicking on License Expiry Field*************
+2026-09-28 20:08:05 INFO  pages.MyInfoPage - ***********Checking Visibility of License Expiry Year Locator************
+2026-09-28 20:08:05 INFO  pages.MyInfoPage - ***********Checking Clickability of License Expiry Year************
+2026-09-28 20:08:05 INFO  pages.MyInfoPage - ***********Checking Visibility of Next Year Button Locator************
+2026-09-28 20:08:05 INFO  pages.MyInfoPage - ***********Checking Clickability of Next Year Button************
+2026-09-28 20:08:05 INFO  pages.MyInfoPage - ***********Clicking on The Desired Year************
+2026-09-28 20:08:05 INFO  pages.MyInfoPage - ***********Checking Visibility of Month Text locator************
+2026-09-28 20:08:05 INFO  pages.MyInfoPage - ***********Checking Clickability of Month************
+2026-09-28 20:08:05 INFO  pages.MyInfoPage - ***********Clicking on Month************
+2026-09-28 20:08:05 INFO  pages.MyInfoPage - ***********Checking Visbility of Month Dropdown Locator************
+2026-09-28 20:08:06 INFO  pages.MyInfoPage - ***********Reading all the Month in the Dropdown************
+2026-09-28 20:08:06 INFO  pages.MyInfoPage - ***********Clicking on The Desired Month************
+2026-09-28 20:08:07 INFO  pages.MyInfoPage - ***********Checking Visibility of Date Locator************
+2026-09-28 20:08:07 INFO  pages.MyInfoPage - ***********Reading all the Date in the Date Grid************
+2026-09-28 20:08:08 INFO  pages.MyInfoPage - ***********Clicking on The Desired Date************
+2026-09-28 20:08:08 INFO  tests.MyInfoFormTest - ********Enetering Nationality*********
+2026-09-28 20:08:08 INFO  pages.MyInfoPage - **********Checking Clickability of Nationality Field*************
+2026-09-28 20:08:08 INFO  pages.MyInfoPage - **********Scrolling to Nationality Field*************
+2026-09-28 20:08:08 INFO  pages.MyInfoPage - ***********Clicking on Nationality Field************
+2026-09-28 20:08:09 INFO  pages.MyInfoPage - ***********Checking Visibility of Nationality Dropdown************
+2026-09-28 20:08:09 INFO  pages.MyInfoPage - ***********Reading all the Elements in Nationality Dropdown************
+2026-09-28 20:08:16 INFO  pages.MyInfoPage - ***********Clicking on The Desired Nationality************
+2026-09-28 20:08:16 INFO  tests.MyInfoFormTest - ********Enetering Marital Status*********
+2026-09-28 20:08:16 INFO  pages.MyInfoPage - **********Checking Clickability of Marital Status Field*************
+2026-09-28 20:08:16 INFO  pages.MyInfoPage - ***********Clicking on Marital Status Field************
+2026-09-28 20:08:16 INFO  pages.MyInfoPage - ***********Checking Visibility of Marital Status Dropdown************
+2026-09-28 20:08:16 INFO  pages.MyInfoPage - ***********Reading all the Elements in Marital Status Dropdown************
+2026-09-28 20:08:16 INFO  pages.MyInfoPage - ***********Clicking on Desired Marital Status************
+2026-09-28 20:08:16 INFO  tests.MyInfoFormTest - ********Selecting Gender*********
+2026-09-28 20:08:16 INFO  pages.MyInfoPage - ***********Checking Visibility of Male Button************
+2026-09-28 20:08:16 INFO  pages.MyInfoPage - ***********Clicking on The Desired Gender************
+2026-09-28 20:08:17 INFO  tests.MyInfoFormTest - ********Enetering Date of Birth*********
+2026-09-28 20:08:17 INFO  pages.MyInfoPage - **********Checking Clickability of Date of Birth Field*************
+2026-09-28 20:08:17 INFO  pages.MyInfoPage - **********Clicking on Date of Birth Field*************
+2026-09-28 20:08:17 INFO  pages.MyInfoPage - ***********Checking Visibility of Birth Year************
+2026-09-28 20:08:17 INFO  pages.MyInfoPage - ***********Checking Clickability of Before Birth Year Button************
+2026-09-28 20:08:17 INFO  pages.MyInfoPage - ***********Checking Clickability of Next Birth Year Button************
+2026-09-28 20:08:17 INFO  pages.MyInfoPage - ***********Clicking on The Desired Year************
