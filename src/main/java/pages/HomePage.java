@@ -38,7 +38,7 @@ public class HomePage {
 	
 	public WebElement dashboardElement() {
 		logger.info("********Getting Dashboard Element********");
-		return dashboardElement;
+		return utils.visibilityOfElementReturn(driver, dashboardElement);
 	}
 	
 	public void loggedInUser() {
