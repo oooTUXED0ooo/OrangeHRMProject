@@ -27,7 +27,7 @@ public class LoginTest extends Base{
         login = new LoginPage(getDriver());        
 	}
 	
-	//@Test
+	@Test
 	public void loginSuccessTest()  {
 		logger.info("****Initiating loginSuccessTest********");
 		logger.info("**********Sending Valid Username-Password to LoginPage*************");
@@ -71,7 +71,7 @@ public class LoginTest extends Base{
 		}
 	}
 	
-	//@Test
+	@Test
 	public void loginFailedTest() throws Exception{
 		logger.info("*******Initiating loginFailedTest********");
 		logger.info("**********Sending Invalid Username-Password to LoginPage*************");

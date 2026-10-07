@@ -22,7 +22,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 public class Utils {
 	
 	private void events(WebDriver driver, By locator, String waitType, WebElement element, List<WebElement> elements) {
-		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(20));
+		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(40));
 		
 		switch (waitType) {
 			case "visibilityByLocator":

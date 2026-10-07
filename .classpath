@@ -37,5 +37,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="/MySeleniumProject"/>
+	<classpathentry kind="src" path="/seleniumAutomation"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
