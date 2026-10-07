@@ -26,7 +26,7 @@ public class Base {
 	public Base() {
 		options = new EdgeOptions();
 		options.setUnhandledPromptBehaviour(UnexpectedAlertBehaviour.IGNORE);
-		//options.addArguments("--headless=new");
+		options.addArguments("--headless=new");
 		properties = new Properties();
 		try {
 			fin = new FileInputStream(System.getProperty("user.dir")+"/src/test/resources/config.properties");
